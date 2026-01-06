@@ -14,12 +14,10 @@ A. & C. BLACK, LTD.
 4, 5 and 6 SOHO SQUARE, LONDON, W. i  
 1921 
 
-NIHIL OBSTAT  
-
+NIHIL OBSTAT:  
 Innocent Apap S.Th.M.O.P.  
-Censor  Deputatus.  
-I M PRIM A TUR  
-
+Censor  Deputatus:  
+IMPRIMATUR:  
 Edm.  Can.  Surmont.  Vic.  Gen.  
 19 Feb. 1920.  
 
@@ -149,33 +147,24 @@ ABRAHAM (St.) Conf. (June  18)
 (5th  cent.)  A  Syrian  Saint  who  on  a  journey to  Egypt  to  visit  the  Solitaries  of  the  desert  was seized  by  a  band  of  robbers and remained  five years  in  bonds.  He  succeeded  in  the  end  in escaping and making  his  way  to  the  coast. There  he  boarded  a  ship  bound  for  Gaul,  where he  settled  near  Clermont  in  Auvergne.  Numerous disciples  gathered  round  him  for  whom  he built  a  monastery.  He  died,  famous  for miracles,  a.d.  472.  
 
 ABRAHAM (St.) Patriarch. (Oct.  9)  
-(19th and 20th  cent.  B.C.) The  Father  of  all 
-believers, and the  progenitor,  according  to  the 
-flesh,  of  the  Hebrew  nation.  He  is  also  the 
-father  of  Ismael,  from  whom  the  Ismaelites  or 
-
-Arabs  are  descended.  When  seventy  years  of age,  he  went  forth  from  Babylonia,  his  native land,  at  God's  bidding,  to  dwell  henceforth  in Canaan,  the  land  flowing  with  milk and honey promised  to  his  seed.  There,  he  led  a  pastoral and  nomad  life.  Moreover,  God  made  a covenant  with  him,  changing  his  name  from Abram  to  Abraham  (Father  of  nations),  promising at  the  same  time  that  his  descendants should  be  more  numerous  than  the  stars  of Heaven and that  in  his  seed  all  peoples  should be  blessed.  Of  him  Our  Lord  said  :  "  Abraham rejoiced  that  he  might  see  my  day  ;  He  saw  it and  was  glad  "  (John  viii.  56).  All  through their  eventful  history  it  was  the  glory  of  the Jewish  people  to  claim  descent  from  him  and from  his  son and grandson,  Isaac and Jacob. To  them,  in  words  spoken  to  Moses  (Exod.  iii. 6),  God  was  the  God  of  Abraham,  Isaac  and Jacob.  The  Patriarch  died  in  Palestine  at  the age  of  one  hundred and seventy-five  years (B.C.  1821).  These and similar  Old  Testament dates  are  given  according  to  the  traditional Chronology  ;  but  are  still  disputed.  
+(19th and 20th  cent.  B.C.) The  Father  of  all believers, and the  progenitor,  according  to  the flesh,  of  the  Hebrew  nation.  He  is  also  the father  of  Ismael,  from  whom  the  Ismaelites  or Arabs  are  descended.  When  seventy  years  of age,  he  went  forth  from  Babylonia,  his  native land,  at  God's  bidding,  to  dwell  henceforth  in Canaan,  the  land  flowing  with  milk and honey promised  to  his  seed.  There,  he  led  a  pastoral and  nomad  life.  Moreover,  God  made  a covenant  with  him,  changing  his  name  from Abram  to  Abraham  (Father  of  nations),  promising at  the  same  time  that  his  descendants should  be  more  numerous  than  the  stars  of Heaven and that  in  his  seed  all  peoples  should be  blessed.  Of  him  Our  Lord  said  :  "  Abraham rejoiced  that  he  might  see  my  day  ;  He  saw  it and  was  glad  "  (John  viii.  56).  All  through their  eventful  history  it  was  the  glory  of  the Jewish  people  to  claim  descent  from  him  and from  his  son and grandson,  Isaac and Jacob. To  them,  in  words  spoken  to  Moses  (Exod.  iii. 6),  God  was  the  God  of  Abraham,  Isaac  and Jacob.  The  Patriarch  died  in  Palestine  at  the age  of  one  hundred and seventy-five  years (B.C.  1821).  These and similar  Old  Testament dates  are  given  according  to  the  traditional Chronology  ;  but  are  still  disputed.  
 
 ♦ABROSIMUS (St.) M. (April  22)  
 (4th  cent.)  A  Persian  priest  stoned  to  death, with  many  of  his  flock,  under  King  Sapor  II, A.D.  341.  
 
 ABSALON (St.) M. (March  2)  
-
 See  SS.  LUCIUS,  ABSALON, &c.  
 
 ABUDEMIUS (St.) M. (July  15)  
 (4th  cent.)  A  native  of  the  Island  of  Tenedos in  the  Mge&n  Sea  who,  after  enduring  frightful torture,  was  there  put  to  death  as  a  Christian in  the  persecution  under  the  Emperor  Diocletian and  his  colleagues  in  the  first  years  of  the fourth  century.  
 
 ABUNDANTIUS (St.) M. (March  1)  
-
 See  SS.  LEO,  DONATUS, &c.  
 
 ABUNDANTIUS (St.) M. (Sept.  16)  
-
 See  SS.  ABUNDIUS,  ABUNDANTIUS, &c.  
 
 ABUNDIUS (St.) M. (Feb.  27)  
-
 See  SS.  ALEXANDER,  ABUNDIUS,  &c.  
 
 ABUNDIUS (St.) Bp. (April  2)  
@@ -188,20 +177,21 @@ ABUNDIUS (St.) M. (July  11)
 (9th  cent.)  A  Parish  priest  of  a  mountain village  near  Cordova  in  Spain  during  the Moorish  domination.  He  entertained  no  thought of  martyrdom,  but  found  himself  in  the  year 854  suddenly  drawn  into  the  conflict,  and, laying  his  head  on  the  block,  made  a  glorious sacrifice  of  his  lfe  for  the  Christian  Faith.  
 
 ABUNDIUS (St.) M. (Aug.  26)  
-
 See  SS.  IRENAEUS and ABUNDIUS.  
 
 ABUNDIUS,  ABUNDANTIUS,  MARCIAN  and JOHN  (SS.)  MM. (Sept.  16)  
-(3rd or 4th  cent.)  Abundius,  a  Roman Priest, and Abundantius,  his  deacon,  had converted  to  Christianity  Marcian,  a  citizen of  distinction,  by  miraculously  raising  to  life his  son  John.  The  Emperor  Diocletian,  informed of  what  had  happened,  ordered  all  four to  be  beheaded  together,  without  the  walls  of the  Imperial  City.  The  precise  date,  between the  years  274 and 308  is  uncertain. 
-ADALSINDIS 
+(3rd or 4th  cent.)  Abundius,  a  Roman Priest, and Abundantius,  his  deacon,  had converted  to  Christianity  Marcian,  a  citizen of  distinction,  by  miraculously  raising  to  life his  son  John.  The  Emperor  Diocletian,  informed of  what  had  happened,  ordered  all  four to  be  beheaded  together,  without  the  walls  of the  Imperial  City.  The  precise  date,  between the  years  274 and 308  is  uncertain.  
 
 ABUNDIUS (St.) M. (Dec.  10)  
+See  SS.  CARPOPHORUS and ABUNDIUS.  
 
-See  SS.  CARPOPHORUS and ABUNDIUS. ABUNDIUS (St.) M. (Dec.  14)  
+ABUNDIUS (St.) M. (Dec.  14)  
+See  SS.  JUSTUS and ABUNDIUS.  
 
-See  SS.  JUSTUS and ABUNDIUS. ACACIUS (St.) M. (Nov.  27)  
+ACACIUS (St.) M. (Nov.  27)  
+See  SS.  HIRENARCHUS,  ACACIUS, &c.  
 
-See  SS.  HIRENARCHUS,  ACACIUS, &c. ACACIUS  (ACHATES) (St.) Bp. (March  31)  
+ACACIUS  (ACHATES) (St.) Bp. (March  31)  
 (3rd  cent.)  Surnamed  Agathangelus  (Good Angel).  A  Bishop  in  Phrygia  (Asia  Minor) who  in  the  Decian  persecution  (a.d.  250)  became famous  for  having  by  his  prudence and constancy so  impressed  the  tyrant  as  to  obtain his  discharge  from  custody.  It  is  not  known how  long  he  survived.  He  is  held  in  great veneration  in  the  East.  
 
 ACATHIUS (St.) M  (May  8)  
@@ -211,24 +201,24 @@ ACATHIUS  (ACACIUS) (St.) Bp. (April  9)
 (5th  cent.)  A  Bishop  of  Amida  in  Mesopotamia, distinguished  for  his  compassionate charity  to  the  Persian  prisoners  taken  in  their successful  invasion  of  Persia  by  the  Romans  of Constantinople  in  the  reign  of  King  Bahram (or  Varannes)  V,  who  is  said  chiefly  on  that account  to  have  ceased  for  a  time  from  persecuting the  Christians. St. Acathius  died  some time  after  a.d.  421.  Some  of  his  letters  are still  extant.  
 
 ACATIUS  (ACATHIUS)  M. (April  28)  
-
 See  SS.  PATRITIUS,  ACATIUS, &c.  
 
 ♦ACCA (St.) Bp. (Oct.  20)  
 (8th  cent.) A  disciple  of  Bosa  of  York  and of St. Wilfrid, and successor  of  the  latter  Saint at  Hexham. St. Acca  was  held  in  the  highest veneration  by  Venerable  Bede.  He  seems  to have died (a.d. 740), perhaps in exile, or shortly  after  his  return  to  Hexham.  A  solemn Translation of his relics took place three centuries  later. St. Acca  was  certainly  one  of the  most  learned  Anglo-Saxon  prelates  of  his century.  
 
 ACCURTIUS (St.) M. (Jan.  16)  
+See  SS.  BERARDUS,  PETER, &c.  
 
-See  SS.  BERARDUS,  PETER, &c. ACEPSIMAS (St.) Bp.  M. (April  22)  
+ACEPSIMAS (St.) Bp.  M. (April  22)  
 (4th  cent.)  A  venerable  old  man,  Bishop  of Honita  in  Assyria,  who  was  imprisoned,  tortured and  put  to  death  by  King  Sapor  II  of  Persia, between  a.d.  341 and A.d.  380.  
 
 ACESTES (St.) M. (July  2)  
 (1st  cent.)  One  of  the  three  soldiers  that tradition  tells  us  were  converted  by St. Paul, while  acting  as  guards  at  his  execution.  They sealed  their  Faith  with  their  own  blood,  a  few davs  later  (July  2,  A..D.  67).  
 
 ACHARD (St.) Abbot. (Sept.  15)  
+Otherwise St. AICHARDUS,  ivhkJi  see.  
 
-Otherwise St. AICHARDUS,  ivhkJi  see. ACHE and ACHEUL  (SS.)  MM. (May  1)  
-
+ACHE and ACHEUL  (SS.)  MM. (May  1)  
 Otherwise  SS.  ACIUS and ACEOLUS,  which see.  
 
 ACHILLAS (St.) Bp. (Nov.  7)  
@@ -238,27 +228,24 @@ ACHILLES (St.) (May  15)
 (4th  cent.) A  Bishop  of  Larissa  in  Thessaly, who  died  a.d.  331 and is  venerated  in  the  East as  a  Saint.  
 
 ACHILLEUS (St.) M. (April  23)  
+See  SS.  FELIX,  FORTUNATUS, &c.  
 
-See  SS.  FELIX,  FORTUNATUS, &c. ACHILLEUS (St.) M. (May  12)  
+ACHILLEUS (St.) M. (May  12)  
+See  SS.  NEREUS,  ACHILLEUS, &c. 
 
-See  SS.  NEREUS,  ACHILLEUS, &c. ACIUS  (ACHE) and ACEOLUS  (ACHEUL)  
-
-MM. (May 1)  
-(3rd  cent.) Martyrs  near  Amiens  (France)  
-
-early in the reign of Diocletian. Several 
-
-churches  have  been  built  in  their  honour,  and they  are  regarded  as  Patron  Saints  of  more than  one  village.  But  trustworthy  particulars of  their  career  are  lacking.  
+ACIUS  (ACHE) and ACEOLUS  (ACHEUL)  MM. (May 1)  
+(3rd  cent.) Martyrs  near  Amiens  (France) early in the reign of Diocletian. Several churches  have  been  built  in  their  honour,  and they  are  regarded  as  Patron  Saints  of  more than  one  village.  But  trustworthy  particulars of  their  career  are  lacking.  
 
 ACINDYNUS (St.) M. (April  20)  
-See  SS.  VICTOR,  ZOTICUS, &c. ACINDYNUS, PEGASIUS, APHDONIUS, ELPIDEPHORUS, and ANEMPODISTUS  (SS. MM. (Nov.  2)  
+See  SS.  VICTOR,  ZOTICUS, &c.  
+
+ACINDYNUS, PEGASIUS, APHDONIUS, ELPIDEPHORUS, and ANEMPODISTUS  (SS. MM. (Nov.  2)  
 (4th  cent.)  Persian  Christians  who  suffered for the Faith under King Sapor II, about a.d. 345.  From MSS. in the Vatican and Imperial (Vienna) Libraries, the Bollandists have  published  a  Greek  narrative  of  the  Passion of St. Acindynus and his companions, from which  it  would  appear  that  all or nearly  all  of them  were  priests or clerics.  
 
 ACISCLUS and VICTORIA  (SS.)  MM. (Nov.  1)  
 (4th  cent.)  A  brother and sister  who,  arrested as  Christians,  underwent  many  cruel  tortures before  being  beheaded,  under  Diocletian,  at Cordova  (a.d.  304).  Their  cultus  is  widespread in  Spain.  
 
 ACUTIUS (St.) M. (Sept.  19)  
-
 See  SS.  JANUARIUS,  FESTUS, &c.  
 
 ACYLLINUS (St.) M. (July  17)  
@@ -279,14 +266,15 @@ ADALBERT (St.) Bp.,  M. (April  23)
 (8th cent.)  One of the daughters of SS. Adalbald and Rictrudis,  who  sanctified  herself in  the  monastery  of  Hamay,  of  which  her  own sister,  St. Eusebia,  was  Abbess.  A.D.  715  is given  as  the  year  of  her  death. 
 
 ♦ADAMNAN (St.) Conf. (Jan.  31)  
-(7th  cent.)  A  monk  of  Coklingham  Abbey  in the  Saxon  Kingdom  of  Northumbria.  He expiated  by  a  long  life  of  austerities and prayer the  sins  of  his  youth, and deserved  well  of  the Church  by  co-operating  with St. Ebba  in reforming  the  discipline  of  the  convent  which she  had  founded and over  which  she  presided to  the  day  of  her  death. St. Adamnan  himself passed  away  about  the  vear  679. ADAMNAN  (ADAM) (St.) Abbot. (Sept.  6)  
+(7th  cent.)  A  monk  of  Coklingham  Abbey  in the  Saxon  Kingdom  of  Northumbria.  He expiated  by  a  long  life  of  austerities and prayer the  sins  of  his  youth, and deserved  well  of  the Church  by  co-operating  with St. Ebba  in reforming  the  discipline  of  the  convent  which she  had  founded and over  which  she  presided to  the  day  of  her  death. St. Adamnan  himself passed  away  about  the  vear  679.  
+
+ADAMNAN  (ADAM) (St.) Abbot. (Sept.  6)  
 (8th  cent.)  An  Irish  Abbot  of  Iona  in  Scotland— "  a  wise and good  man,  well  versed  in the  Holy  Scriptures " — best  known  by  the Life  of St. Columba  he  has  left and by  a  description of  the  Holy  Places  of  Palestine  which  he compiled.  He  was  remarkable  for  his  success in  procuring  in  Scotland and Ireland  the adoption  of  the  Roman  practice  as  to  the  date of  Easter.  He  died  A.D.  704.  Whether  or not  he  is  one and the  same  with St. Eunan the  Patron  Saint  of  the  Diocese  of  Raphoe  in Ireland,  remains  an  open  question.  His  name has  been  popularly  abbreviated  into  Adam, and  is  still  frequently  given  in  Scotland  at Baptism.  
 
 ADAUCUS  (ADAUCTUS) (St.) M. (Feb.  7)  
 (4th  cent.)  By  birth  an  Italian, and an Imperial  favourite  at  the  Court  of  the  pitiless Diocletian,  who  sacrificed  him  on  discovering his  religion.  He  was  executed  in  Phrygia (A.D.  304), and had  a  number  of  companions in  his  Martyrdom,  some  of  M'hom  were  of senatorial or other  high  rank.  Among  them there  were  also  manv  women and children. Historians  attribute  the  special  barbarity  of the  tortures  he  endured  rather  to  the  savageness of  Galerius,  Diocletian's  colleague,  than  to  the evil  disposition  of  the  old  Emperor  himself.  
 
 ADAUCTUS (St.) M. (July  30)  
-
 See  SS.  FELIX and ADAUCTUS.  
 
 ADAUCTUS and CALLISTHENE  (SS.)  (Oct.  4)  
@@ -329,23 +317,28 @@ ADILIA (St.) V. (Dec.  13) Otherwise St. OTHILIA or ODILIA,  which
 ♦ADJUTOR  (AJUTRE). (April  30)  
 (12th  cent.)  A  Norman  knight  who  took part  in  the  Crusades,  and,  on  his  return  from the  Holy  Land,  led  the  life  of  a  hermit  at Vernon  on  the  river  Seine,  where  he  died  (A.D. 1131).  
 
-ADJUTOR (St.) Conf. (Sept.  1) See  SS.  PRISCUS,  CASTRENSIS, &c.  
+ADJUTOR (St.) Conf. (Sept.  1)  
+See  SS.  PRISCUS,  CASTRENSIS, &c.  
 
-ADJUTOR (St.) M. (Dec.  18) See  SS.  VICTURUS,  VICTOR,  &c.  
+ADJUTOR (St.) M. (Dec.  18)  
+See  SS.  VICTURUS,  VICTOR,  &c.  
 
-ADJUTUS (St.) M. (Jan.  16) See  SS.  BERARDUS,  PETER,  &c.  
+ADJUTUS (St.) M. (Jan.  16)  
+See  SS.  BERARDUS,  PETER,  &c.  
 
 ADJUTUS (St.) Conf. (Dec.  19)  
-(Date  uncertain.)  Described  as  Abbot  of Orleans and often  assigned  to  as  early  as  the fifth  century.  He  is  inscribed  as  ADJUTUS in  the  Roman  Martyrology  ;  but  French  authors mostly  style  him  AVITUS or AVY.  The learned  Mabillon  holds,  in  accordance  with Baronius,  that  there  were  really  two  Abbots of  this  name  in  the  Orleanais,  the  one  of  Perche, the  other  of  Micy,  both  honoured  as  Saints. Neither  of  course  must  be  confused  with  the much  better  known  St  Avitus,  Bishop  of Vienne,  who  flourished  at  about  the  same period.  It  is  to  be  noted  that St. Gregory  of Tours,  a  thousand  years  before  Mabillon.  had distinguished  one  from  the  other,  the  two holy  Abbots.  Nevertheless,  the  modern  compilers of  the  Analecta  Bollandiana,  adopting the  seventeenth  century  criticisms  of  Ruinart, insist  that  the  earlier  MSS.  know  of  only  one Abbot  Adjutus, or Avitus,  recognised  as  a  Saint in  the  fifth,  sixth or seventh  century.  This would  be  the St. Avitus,  Abbot,  of  June  17) Various  developments  of  his  legend  have (they  contend)  led  to  the  mistake.  Krusch ventures  the  suggestion  that  two  festivals  were locally  kept  in  his  honour,  one  (Dec.  19)  commemorating his  death, the other (June 17) 
-iEMILIAN  
+(Date  uncertain.)  Described  as  Abbot  of Orleans and often  assigned  to  as  early  as  the fifth  century.  He  is  inscribed  as  ADJUTUS in  the  Roman  Martyrology  ;  but  French  authors mostly  style  him  AVITUS or AVY.  The learned  Mabillon  holds,  in  accordance  with Baronius,  that  there  were  really  two  Abbots of  this  name  in  the  Orleanais,  the  one  of  Perche, the  other  of  Micy,  both  honoured  as  Saints. Neither  of  course  must  be  confused  with  the much  better  known  St  Avitus,  Bishop  of Vienne,  who  flourished  at  about  the  same period.  It  is  to  be  noted  that St. Gregory  of Tours,  a  thousand  years  before  Mabillon.  had distinguished  one  from  the  other,  the  two holy  Abbots.  Nevertheless,  the  modern  compilers of  the  Analecta  Bollandiana,  adopting the  seventeenth  century  criticisms  of  Ruinart, insist  that  the  earlier  MSS.  know  of  only  one Abbot  Adjutus, or Avitus,  recognised  as  a  Saint in  the  fifth,  sixth or seventh  century.  This would  be  the St. Avitus,  Abbot,  of  June  17) Various  developments  of  his  legend  have (they  contend)  led  to  the  mistake.  Krusch ventures  the  suggestion  that  two  festivals  were locally  kept  in  his  honour,  one  (Dec.  19)  commemorating his  death, the other (June 17) the Translation at  some  later  period of  his relics.  
 
-the Translation at  some  later  period of  his relics. ADO (St.) Bp. (Dec.  16)  
-(9th  cent.)  Born  in  Burgundy  of  rich  and noble  parents  (a.d.  799), St. Ado  was  educated in  the  Benedictine  Abbey  of  Ferrieres  in  the Diocese  of  Sens.  Ordained  priest,  he  taught sacred and profane  science  in  the  Schools  of the  Abbey  of  Brum,  near  Treves.  He  next spent  four  years  in  Rome,  engaged  in  literary researches, and returning  to  France,  discovered at  Ravenna  much  important  material  from which  he  published  his  famous  Martyrology. He  worked  on  this  at  Lyons  as  the  guest  of St.  Remigius,  Archbishop  of  that  city.  On  the death  of  Agilmar,  Archbishop  of  Vienne  in Dauphine, St. Ado  was  consecrated  his  successor and  received  the  Ballium  from  Fope Nicholas  I.  He  died  in  the  year  875.  In  art, he  is  usually  represented  studying  the  Scriptures in  a  library.  Besides  the  Martyrology.  we  have several  others  of  his  writings.  Ado's  Martyrology has  largely  influenced  the  compilers  of  later revisions  of  the  Roman  Martyrology  itself,  and full  account  must  therefore  in  the  study  of  the latter  be  taken  of  the  shortcomings  of  Ado's work.  The  valuable  volume  of  the  erudite Dom  Quentin  (issued  in  1908)  should  be  consulted for  details. *ADOLPHUS (St.) Bp. (Feb.  11)  
+ADO (St.) Bp. (Dec.  16)  
+(9th  cent.)  Born  in  Burgundy  of  rich  and noble  parents  (a.d.  799), St. Ado  was  educated in  the  Benedictine  Abbey  of  Ferrieres  in  the Diocese  of  Sens.  Ordained  priest,  he  taught sacred and profane  science  in  the  Schools  of the  Abbey  of  Brum,  near  Treves.  He  next spent  four  years  in  Rome,  engaged  in  literary researches, and returning  to  France,  discovered at  Ravenna  much  important  material  from which  he  published  his  famous  Martyrology. He  worked  on  this  at  Lyons  as  the  guest  of St.  Remigius,  Archbishop  of  that  city.  On  the death  of  Agilmar,  Archbishop  of  Vienne  in Dauphine, St. Ado  was  consecrated  his  successor and  received  the  Ballium  from  Fope Nicholas  I.  He  died  in  the  year  875.  In  art, he  is  usually  represented  studying  the  Scriptures in  a  library.  Besides  the  Martyrology.  we  have several  others  of  his  writings.  Ado's  Martyrology has  largely  influenced  the  compilers  of  later revisions  of  the  Roman  Martyrology  itself,  and full  account  must  therefore  in  the  study  of  the latter  be  taken  of  the  shortcomings  of  Ado's work.  The  valuable  volume  of  the  erudite Dom  Quentin  (issued  in  1908)  should  be  consulted for  details.  
+
+*ADOLPHUS (St.) Bp. (Feb.  11)  
 (13th cent.)  A Bishop of Osnabruck in Germany,  remarkable  for  his  saintliness  of  life and  especially  for  his  self-sacrificing  care  for the  poor.  He  died  A.D.  1222.  
 
 ADRIA (St.) M. (Dec.  2)  
+See  SS. EUSEBIUS,  MARCELLUS, &c. 
 
-See  SS. EUSEBIUS,  MARCELLUS, &c. ADRIAN.  
+ADRIAN.  
 This  proper  name  is  also  spelled  in  certain cases  with  an  initial  H  (Hadrian).  
 
 ♦ADRIAN (St.) Abbot. (Jan.  9)  
@@ -355,159 +348,112 @@ This  proper  name  is  also  spelled  in  certain cases  with  an  initial  H  
 (16th  cent.)  A  brave  knight,  condemned  to death  for  refusing  to  admit  the  supremacy in matters  of  religion  of  King  Henry  VIII.  He was  beheaded  on  Tower  Hill  A.D.  1539.  
 
 ♦ADRIAN and OTHERS  (SS.)  MM. (March  4)  
-(9th  cent.)  A  band  of  Martyrs  (some  say many  thousands  in  number)  massacred  by  the Heathen  Danes  (a.d.  874)  in  the  Isle  of  May (Firth  of  Forth). St. Adrian,  Bishop  of  St. Andrews,  was  leader  of  this  glorious  array  of Christian  victims.  Their  burial-place  was  a noted  pilgrimage  in  Catholic  Scotland. ADRIO,  VICTOR and BASILLA  (SS.)  
+(9th  cent.)  A  band  of  Martyrs  (some  say many  thousands  in  number)  massacred  by  the Heathen  Danes  (a.d.  874)  in  the  Isle  of  May (Firth  of  Forth). St. Adrian,  Bishop  of  St. Andrews,  was  leader  of  this  glorious  array  of Christian  victims.  Their  burial-place  was  a noted  pilgrimage  in  Catholic  Scotland.  
 
-MM. (May  17)  
-(4th  cent.)  Egyptian  Martyrs  at  Alexandria. It  seems  certain  that  they  suffered  in  one  of the  persecutions  of  the  fourth  century,  but whether  at  the  hands  of  the  Pagans  at  its commencement, or later  under  the  Allans,  is not  clear,  all  particulars  being  lost.
+ADRIO,  VICTOR and BASILLA  (SS.)  MM. (May  17)  
+(4th  cent.)  Egyptian  Martyrs  at  Alexandria. It  seems  certain  that  they  suffered  in  one  of the  persecutions  of  the  fourth  century,  but whether  at  the  hands  of  the  Pagans  at  its commencement, or later  under  the  Allans,  is not  clear,  all  particulars  being  lost.  
+
 ♦ADULPHUS (St.) Bp. (June  17)  
 (8th  cent.)  The  brother  of St. Botolph,  who with  that  Saint  journeyed  in  his  youth  from England  to  Saxony,  where  he  remained  for many  years and was  promoted  to  the  Episcopal dignity.  He  seems,  however,  to  have  returned to  England  before  his  death,  which  happened about  the  year  700, and his  relics  were  there mingled  with  those  of  his  holy  brother.
 ♦ADRIAN (St.) M. (March  19)  
 (7th  cent.)  A  disciple  of St. Landoald  who was  murdered  by  robbers  wliile  begging  alms for  his  community  near  Maestricht  (a.d.  668 about) and afterwards  locally  venerated  as  a Martyr. 
 
 ADULPHUS and JOHN  (SS.)  MM. (Sept.  27)  
-(9th cent.) Martyrs at Cordova in Spain 
-(about  a.d.  850)  in  the  fierce  persecution  under 
-which  the  Christians  suffered  under  the  Moorish 
-Caliph  Abderrahman.  
+(9th cent.) Martyrs at Cordova in Spain (about  a.d.  850)  in  the  fierce  persecution  under which  the  Christians  suffered  under  the  Moorish Caliph  Abderrahman.  
 
 ADVENTOR  (S.)  M. (Nov.  20)  
-
 See  SS.  OCTAVIUS,  SOLUTOR, &c.  
 
-fE. Names  of  Saints  beginning  with  this  diphthong 
-are  frequently  spelled  with  A or E  only  as  initial.  
-
-Thus  for  JElphege,  we  have  Alphage  (Alphege)  
-
-and  Elphege.  
+AE. Names  of  Saints  beginning  with  this  diphthong are  frequently  spelled  with  A or E  only  as  initial.  
+Thus  for  JElphege,  we  have  Alphage (Alphege) and Elphege.  
 
 ♦AED  (AOD,  ^EDSIND) (St.) Bp. (Nov.  10)  
-(7th  cent.)  Related  to  SS.  Fursey and Foillan.  
+(7th  cent.)  Related  to  SS.  Fursey and Foillan.  A  Bishop  in  Meath or perhaps  somewhere in Connaught.  
 
-A  Bishop  in  Meath or perhaps  somewhere  in 
-Connaught.  
+♦AEDAN  (AIDAN,  EDAN)  Bp. (Jan.  31)  
+(7th  cent.)  An  Irish  Bishop,  disciple  in  his youth  of St. David  of  Wales,  who  on  his  return to  Ireland,  laboured  zealously  in  the  interests of  religion and died  Bishop  of  Ferns  (a.d.  632).  
 
-♦.ffiDAN  (AIDAN,  EDAN)  Bp. (Jan.  31)  
-(7th  cent.)  An  Irish  Bishop,  disciple  in  his 
-youth  of St. David  of  Wales,  who  on  his  return 
-to  Ireland,  laboured  zealously  in  the  interests 
-of  religion and died  Bishop  of  Ferns  (a.d.  632).  
+He  is  also  called  MAIDHOC,  MAODHOG  and MOGUE.  He  is  known  in  Brittany  as St. DE.  
 
-He  is  also  called  MAIDHOC,  MAODHOG  and 
-MOGUE.  He  is  known  in  Brittany  as St. DE.  
+AEDESIUS (St.) M. (April  8)  
+(4th  cent.)  The  elder  brother  of St. Amphianus and a  pupil  of St. Pamphilius  of  Caesarea.  
+After  having  in  various  ways  suffered  for  the Faith,  he  passed  into  Egypt,  where  we  read  of his  venturing to reproach  Heraclius,  the governor of the province, for the cruelties practised  by  him  against  the  Christians.  He was  put  to  the torture  for  his  boldness  and eventually  cast  into  the  sea  (a.d.  306).  
 
-/EDESIUS (St.) M. (April  8)  
-(4th  cent.)  The  elder  brother  of St. Amphi
-anus and a  pupil  of St. Pamphilius  of  Caesarea.  
+♦AELRED (St.) Abbot. (March  2)  
+(12th cent.) A holy man of  Anglo-Saxon origin, who, abandoning  a  high  post  at  the Court  of  David  I.,  King  of  Scots,  retired  to  the Cistercian  Abbey  of  Bievaulx  in  Yorkshire,  of which  monastery  he  was  in  the  end  to  become Abbot His  repute  as  a  Saint,  great  during  his life,  increased  after  hi3  holv  death,  Jan. 12, 1166.  
 
-After  having  in  various  ways  suffered  for  the 
-Faith,  he  passed  into  Egypt,  where  we  read  of 
-his  venturing to reproach  Heraclius,  the 
-governor of the province, for the cruelties 
-practised  by  him  against  the  Christians.  He 
-was  put  to  the torture  for  his  boldness  and 
-eventually  cast  into  the  sea  (a.d.  306).  
+AELPHLEAH (St.) Bp. (April  19)  
+Otherwise St. ELPHEGE,  which  see.  
 
-♦,ELRED (St.) Abbot. (March  2)  
-(12th cent.) A holy man of  Anglo-Saxon 
-origin, who, abandoning  a  high  post  at  the 
-Court  of  David  I.,  King  of  Scots,  retired  to  the 
-Cistercian  Abbey  of  Bievaulx  in  Yorkshire,  of 
-which  monastery  he  was  in  the  end  to  become 
-Abbot His  repute  as  a  Saint,  great  during  his 
-life,  increased  after  hi3  holv  death,  Jan. 12, 
-1166.  
-
-/ELPHLEAH (St.) Bp. (April  19)  
-
-Otherwise St. ELPHEGE,  which  see.
-♦^ELGIFU (St.) V. (May  18)  
-
+♦AELGIFU (St.) V. (May  18)  
 Otherwise  St  ELGIVA,  which  see.  
 
-yEMILIAN (St.) bbot. (Nov.  12)  
-(6th cent.) A poor shepherd in Angon 
-(Spain),  who,  from  the  age  of  twenty  lived  for 
-forty  years  as  a  hermit  in  the  mountains  near 
-his  birthplace,  Vergaja,  until  his  Bishop 
-constrained him to take priests' orders and 
-made  him  parish  priest  of  his  native  village.  
+AEMILIAN (St.) bbot. (Nov.  12)  
+(6th cent.) A poor shepherd in Angon (Spain),  who,  from  the  age  of  twenty  lived  for forty  years  as  a  hermit  in  the  mountains  near his  birthplace,  Vergaja,  until  his  Bishop constrained him to take priests' orders and made  him  parish  priest  of  his  native  village.  
+But  his  zeal  created  him  enemies, and he  soon returned  to  his  hermitage,  where, celebrated for  his  miracles and virtues,  he  died  (A.D.  574).  
+His  body,  interred  at  first  in  his  hermitage, was  later  transferred  to  a  magnificent  monastery built  in  memory  of  him.  It  is  alleged  that  he had  had  many  disciples  living  with  him  ; and on  that  account  he  has  always  been  venerated as an Abbot and as the introducer of  the Benedictine  Rule  into  Spain.  
 
-But  his  zeal  created  him  enemies, and he  soon 
-returned  to  his  hermitage,  where, celebrated 
-for  his  miracles and virtues,  he  died  (A.D.  574).  
-
-His  body,  interred  at  first  in  his  hermitage, 
-was  later  transferred  to  a  magnificent  monastery 
-built  in  memory  of  him.  It  is  alleged  that  he 
-had  had  many  disciples  living  with  him  ; and 
-on  that  account  he  has  always  been  venerated 
-as an Abbot and as the introducer of  the 
-Benedictine  Rule  into  Spain.  
-
-JEMILIAN (St.) Bp.  M. (Feb.  8)  
-
+AEMILIAN (St.) Bp.  M. (Feb.  8)  
 See  SS.  DIONYSIUS,  .EMILIAN, &c.  
+Some writers, however, identify tills St. jEmilian with another Martyr of the same name, likewise an Armenian, venerated at Trebbia  (Trevi)  in  Central  Italy,  as  first  Bishop of  that  city  (4th  century).  
 
-Some writers, however, identify tills St.  
+♦AEMILIAN (St.) Abbot. (March  10)  
+(8th  cent.) An  Irish  Saint,  related  to St. Rumold, who founded and presided over a Benedictine  Abbey  in  Flanders.  
 
-jEmilian with another Martyr of the same 
-name, likewise an Armenian, venerated at 
-Trebbia  (Trevi)  in  Central  Italy,  as  first  Bishop 
-of  that  citv  (4th  century).  
+AEMILIAN (St.) M. (April  29)  
+See  SS.  AGAPIUS,  SECUNDINUS, &c.  
 
-♦/EMILIAN (St.) Abbot. (March  10)  
-(8th  cent.) An  Irish  Saint,  related  to St. 
+AEMILIAN (St.) M. (July  18)  
+(4th cent.)  A Christian of Dorostorium (Sillistria)  on  the  Danube.  He  suffered  under Julian  the  Apostate,  being  burned  to  death  by order  of  the  Prefect  Capitolinus  (a.d.  362).  
+AEMILIAN (St.) Bp. (Aug.  8)  
+(9th  cent.)  The  Menology  of  Basil  ascribes to  this  holy  Bishop  of  Cyzicus  all  the  qualities and  virtues  of  a  perfect  pastor  of  souls,  emphasises his zeal for the Orthodox Faith and enlarges  especially  on  his  fearless  denunciation of  the  Iconoclasts.  He  was  brought  before  the Emperor  Leo  the  Armenian,  subjected  to  many indignities, and died  in  exile  (a.d.  820).  Cyzicus,  standing  on  the  island  of  the  same name  off  the  Southern  shore  of  the  Sea  of Marmora,  was  one  of  the  most  important  of the  Greek  cities  in  Asia  Minor,  a  great  Christian centre, and boasted  of  a  succession  of  fifty-nine Bishops.  
 
-Rumold, who founded and presided over a 
-Benedictine  Abbey  in  Flanders.  
+AEMILIAN (St.) Bp. (Sept.  11)  
+(6th  cent.)  In  the  ancient  records  of  the Church  of  Vercelli  (Piedmont), St. iEmilian is  said  to  have  lived  as  a  hermit  for  forty  years before  his  elevation  to  the  Bishopric  of  that city.  He  thrice  visited  Rome and attended the  three  Synods  held  by  Pope St. Symmachus. He  died,  a  centenarian  in  the  year  520.  Translations of  his  relics  took  place  in  the  year  1181  and again  towards  the  end  of  the  seventeenth  century.  
 
-iEMILIAN (St.) M. (April  29)  
+*AEMILIAN (St.) Conf. (Oct  11)  
+(Date  uncertain.)  The  Roman  Martyrology assigns  this St. iEmilian  to  Rennes  in  Brittany  ; but  no  trace  of  a  Saint  of  this  name  can  be found  in  the  Breton  records.  The  Bollandists conclude  that  iEmilian  in  this  case  is  a  corruption of  the  name  Melanius.  A  Saint  Melanius, according  to  Albert  Legrand and other  local authorities,  was  Bishop  of  Rennes  for  sixty-two years and died  on  the  Feast  of  the  Epiphany, a.d.  567.  In  the  year  878  the  body  of  this Saint  was  rescued  from  the  outrages  of  the Norman  invasion,  and,  with  the  body  of  St. Clair,  carried  to  Bourges.  This  Translation (ninth  century)  may  have  been  commemorated on  Oct.  11  with  iEmilianus  in  error  substituted for  Melanius  in  the  official  documents.  
 
-See  SS.  AGAPIUS,  SECUNDINUS, &c. .ffiMILIAN (St.) M. (July  18)  
-(4th cent.)  A Christian of Dorostorium (Sillistria)  on  the  Danube.  He  suffered  under Julian  the  Apostate,  being  burned  to  death  by order  of  the  Prefect  Capitolinus  (a.d.  362). /EMILIAN (St.) Bp. (Aug.  8)  
-(9th  cent.)  The  Menology  of  Basil  ascribes to  this  holy  Bishop  of  Cyzicus  all  the  qualities and  virtues  of  a  perfect  pastor  of  souls,  emphasises his zeal for the Orthodox Faith and 
-5 
+AEMILIAN (St.) M. (Dec.  6)  
+(5th  cent.)  An  African  physician,  a  Martyr of  the  Vandal  persecution  under  the  Arian King  Hunneric  (A. P.  484).  The  name  of St.  iEmilian  appears  in  a  curious  old  French litany  of  "Saints  of  the  Medical  Profession."  
 
-^MILIAN 
-enlarges  especially  on  his  fearless  denunciation of  the  Iconoclasts.  He  was  brought  before  the Emperor  Leo  the  Armenian,  subjected  to  many indignities, and died  in  exile  (a.d.  820).  
+AEMILIANA (St.) V. (Jan.  5)  
+(6th  cent.)  A  Roman  lady, and the  paternal aunt  of St. Gregory  the  Great,  who  tells  us, in  his  Life  of St. Felix,  that  her  dead  sister Tarsilla  appeared  to St. iEmiliana and foretold to  her  that  she  would  die and spend  the  Epiphany with  her  in  Paradise.  An  old  English Martyrology  thus  relates  the  above  incident. "  Her  sister's  ghost  appeared  to  her  in  a  nightly vision,  saying  to  her  :  '  Without  thee,  I  celebrated the  Holiday  of  the  Lord's  Birth,  but with  thee,  I  shall  keep  the  holiday  of  the Lord's  manifestation,  that  is,  the  Twelfth holiday  of  the  Lord,  the  day  of  His  Baptism.'  
 
-Cyzicus,  standing  on  the  island  of  the  same name  off  the  Southern  shore  of  the  Sea  of Marmora,  was  one  of  the  most  important  of the  Greek  cities  in  Asia  Minor,  a  great  Christian centre, and boasted  of  a  succession  of  fifty-nine Bishops. IEMILIAN (St.) Bp. (Sept.  11)  
-(6th  cent.)  In  the  ancient  records  of  the Church  of  Vercelli  (Piedmont), St. iEmilian is  said  to  have  lived  as  a  hermit  for  forty  years before  his  elevation  to  the  Bishopric  of  that city.  He  thrice  visited  Rome and attended the  three  Synods  held  by  Pope St. Symmachus. He  died,  a  centenarian  in  the  year  520.  Translations of  his  relics  took  place  in  the  year  1181  and again  towards  the  end  of  the  seventeenth  century. */EMILIAN (St.) Conf. (Oct  11)  
-(Date  uncertain.)  The  Roman  Martyrology assigns  this St. iEmilian  to  Rennes  in  Brittany  ; but  no  trace  of  a  Saint  of  this  name  can  be found  in  the  Breton  records.  The  Bollandists conclude  that  iEmilian  in  this  case  is  a  corruption of  the  name  Melanius.  A  Saint  Melanius, according  to  Albert  Legrand and other  local authorities,  was  Bishop  of  Rennes  for  sixty-two years and died  on  the  Feast  of  the  Epiphany, a.d.  567.  In  the  year  878  the  body  of  this Saint  was  rescued  from  the  outrages  of  the Norman  invasion,  and,  with  the  body  of  St. Clair,  carried  to  Bourges.  This  Translation (ninth  century)  may  have  been  commemorated on  Oct.  11  with  iEmilianus  in  error  substituted for  Melanius  in  the  official  documents. /EMILIAN (St.) M. (Dec.  6)  
-(5th  cent.)  An  African  physician,  a  Martyr of  the  Vandal  persecution  under  the  Arian King  Hunneric  (A. P.  484).  The  name  of St.  iEmilian  appears  in  a  curious  old  French litany  of  "  Saints  of  the  Medical  Profession." jEMILIANA (St.) V. (Jan.  5)  
-(6th  cent.)  A  Roman  lady, and the  paternal aunt  of St. Gregory  the  Great,  who  tells  us, in  his  Life  of St. Felix,  that  her  dead  sister Tarsilla  appeared  to St. iEmiliana and foretold to  her  that  she  would  die and spend  the  Epiphany with  her  in  Paradise.  An  old  English Martyrology  thus  relates  the  above  incident. "  Her  sister's  ghost  appeared  to  her  in  a  nightly vision,  saying  to  her  :  '  Without  thee,  I  celebrated the  Holiday  of  the  Lord's  Birth,  but with  thee,  I  shall  keep  the  holiday  of  the Lord's  manifestation,  that  is,  the  Twelfth holiday  of  the  Lord,  the  day  of  His  Baptism.'  ' IEMILIANA (St.) V.M. (June  30)  
-(Date  unknown.)  She  is  stated  to  have  been a  Christian  maiden  who  lived  in  Rome  and died  a  Martyr.  But  all  particulars  are  lacking. A  priest,  Eutychius,  mentioned  as  having assisted  at  the  first  Roman  Synod  of  Pope St.  Symmachus  (a.d.  499),  is  described  as  being of  the  Church  of St. iEmiliana. jEMILIUS (St.) M. (May  22)  
+AEMILIANA (St.) V.M. (June  30)  
+(Date  unknown.)  She  is  stated  to  have  been a  Christian  maiden  who  lived  in  Rome  and died  a  Martyr.  But  all  particulars  are  lacking. A  priest,  Eutychius,  mentioned  as  having assisted  at  the  first  Roman  Synod  of  Pope St.  Symmachus  (a.d.  499),  is  described  as  being of  the  Church  of St. iEmiliana.  
 
+AEMILIUS (St.) M. (May  22)  
 See  SS.  CASTUS,  .EMILIUS, &c.  
 
-jEMILIUS,  FELIX,  PRIAM and AEMILIAN  (SS.)  MM. (May  28)  
+AEMILIUS,  FELIX,  PRIAM and AEMILIAN  (SS.)  MM. (May  28)  
 (Date  uncertain.)  Churches  are  dedicated  in honour  of  these  Saints  in  the  Island  of  Sardinia; but  otherwise  nothing  is  now  known  concerning them.  
 
-JEMILIUS (St.) M. (Oct.  6)  
+AEMILIUS (St.) M. (Oct.  6)  
+See  SS.  MARCELLUS,  CASTUS, &c.  
 
-See  SS.  MARCELLUS,  CASTUS, &c. *^ENGUS  (ANGUS) (St.) Bp. (March  11)  
-(9th  cent )  An  Irish  Saint,  Abbot  of  CluainEdneach and consecrated  a Bishop ; famous as  a  compiler  of  a  valuable  Irish  Martyrology. He  died  at  Desert-^Engus  A.D.  824.  
+*AENGUS  (ANGUS) (St.) Bp. (March  11)  
+(9th  cent )  An  Irish  Saint,  Abbot  of  CluainEdneach and consecrated  a Bishop ; famous as  a  compiler  of  a  valuable  Irish  Martyrology. He  died  at  Desert-AEngus  A.D.  824.  
 
-♦.ffiSCHILUS (St.) Bp.  M. (June  12)  
+♦AESCHILUS (St.) Bp.  M. (June  12)  
 (12th  cent.)  An  Englishman  who  followed St.  Anschar  as  a  missionary  to  Sweden,  where be  was  raised  to  the  Episcopal  dignity.  His zeal  for  the  propagation  of  the  Christian  religion 6 led  at  length  to  his  being  condemned  to  death by  King  Swerker  I,  surnamed  the  "  Bloody." St.  iEschilus  laid  down  his  life  for  Christ  on Good  Friday  A.D.  1131 .  
 
-♦.ffiTHELHEARD  (Bl.)  Bp. (May  21)  
+♦AETHELHEARD  (Bl.)  Bp. (May  21)  
 (9th cent.)  The fourteenth Archbishop of Canterbury,  who  died  A.D.  805, and after  his death  appears  to  have  been  locally  venerated as  a  Saint.  
 
 ♦ETHELGIFU (St.) V. (Dec.  9)  
-
 Otherwise St. ETHELGIVA or ELGIVA, 'WTlhCfl  S6C ETHERIUS (St.) Bp.  M. (March  4)  
+See  SS.  BASIL,  EUGENE, &c.  
 
-See  SS.  BASIL,  EUGENE, &c. ^ETHERIUS (St.) Bp. (June  14)  
+AETHERIUS (St.) Bp. (June  14)  
 (7th  cent.)  A  holy  Bishop  of  Vienne  (France), commemorated  in  all  the  Martyrologies  as famous  for  his  virtues,  learning and miracles.  He flourished  in  the  first  half  of  the  seventh  century. Nothing  further  is  now  known  about  him.  
 
-^ITHERIUS (St.) M. (June  18)  
+AETHERIUS (St.) M. (June  18)  
 (4th  cent.)  One  of  the  countless  Christians who  suffered  torture and death  under  the Emperor  Diocletian.  His  martyrdom  took place  probably  at  Nicomedia  (Asia  Minor), A.D.  304.  
- dETHERIUS (St.) Bp. (July  27)  
+AETHERIUS (St.) Bp. (July  27)  
 (6th  cent.)  The  eighteenth  Bishop  of Auxerre  (France),  which  Diocese  he  governed till  his  holy  death  in  the  tenth  year  of  his Episcopate  (A.D.  573). 
 
-♦JETIUS (St.) M. (March  6)  
+♦AETIUS (St.) M. (March  6)  
 (9th  cent.)  A  General  in  the  Christian  army and  chief  among  the  heroic  band  of  forty-two soldiers  who,  taken  prisoners  by  the  Caliph Montassem  (a.d.  836)  at  Amorium  in  Syria, resisted  all  threats and allurements  to  become Mohammedans,  and,  after  nine  years  of  prison and  repeated  tortures,  were  put  to  death  by his  orders.  
 
 ♦AFAN (St.) Conf. (Nov.  16)  
@@ -533,7 +479,7 @@ AFRICA  (MARTYRS  IN). (Jan  6)
 (3rd  cent.) A  number  of  Christian  men  and women,  burned  at  the  stake  in  Africa  about a.d.  210,  under  the  Emperor  Septimius  Severus.  
 
 AFRICA  (MARTYRS  IN). (Feb.  11)  
-(4th  cent.)  Martyrs  known  as  the  "  Guardians of  the  Holy  Scriptures."  They  elected  rather to  die  than  to  deliver  up  the  Sacred  Books  to be  burned  as  ordered  in  the  great  persecution under  Diocletian.  Those  commemorated  on Feb.  11  suffered  in  the  Province  of  Numidia (A.D.  303). St. Augustine  makes  special mention  of  them.  
+(4th  cent.)  Martyrs  known  as  the  "Guardians of  the  Holy  Scriptures."  They  elected  rather to  die  than  to  deliver  up  the  Sacred  Books  to be  burned  as  ordered  in  the  great  persecution under  Diocletian.  Those  commemorated  on Feb.  11  suffered  in  the  Province  of  Numidia (A.D.  303). St. Augustine  makes  special mention  of  them.  
 
 AFRICA  (MARTYRS  IN). (April  5)  
 (5th  cent.)  A  congregation  of  Catholic Christians  massacred  on  Easter  Sunday  (a.d. 459),  by  order  of  the  Arian  Genseric,  King  of the  Vandals,  while  assisting  at  Mass.  The lector,  who  was  in  the  act  of  intoning  the Alleluia  from  the  lectern  at  the  moment  when the  soldiers  rushed  into  the  church,  had  his throat  pierced  bv  an  arrow.  
@@ -1479,7 +1425,7 @@ ANSCHAR.(ANSGAR,SCHARIES) (St.) Bp. (Feb.3)
 (9th  cent.)  A  native  of  Amiens  (France), who  at  an  early  age  entered  the  Benedictine Abbey  of  Corbie,  under  the  Abbot St. Adelard. Sent  out  as  a  missionary,  he  preached  the Gospel  with  signal  success  in  Denmark,  Sweden and  North  Germany,  establishing  everywhere churches and schools.  He  became  the  first Archbishop  of  Hamburg, and Pope  Gregory  IV appointed  him  his  legate  in  the  North  of  Europe. Christianity  was  on  the  point  of  dying  out  in Scandinavia  when St. Anschar  devoted  himself to  the  work  of  re-kindling  the  Faith  among  the Norsemen.  He  himself  led  a  life  of  great austerity,  but  was  indefatigable  in  his  charity to  the  poor.  He  died  at  Bremen  a.d.  865.  
 
 ANSELM  OF  LUCCA (St.) Bp. (March  18)  
-(11th  cent.)  A  native  of  Mantua,  appointed Bishop  of  Lucca  by  his  uncle  Pope  Alexander  II. He  resisted  zealously  the  encroachments  of Henry  IV,  the  German  Emperor  of  the  time. Forced  to  retire  from  his  Bishopric,  he  took refuge  with  the  monks  of  Cluny  in  France. St.  Leo  IX,  who  was  carrying  on  the  work  of his  predecessor,  Pope St. Gregory  VII,  recalled St.  Anselm  into  Italy,  appointing  him  his  legate, and  entrusting  to  him  the  administration  of several  Dioceses.  He  died  (a.d.  1086)  at Mantua,  of  which  citv  he  is  a  Patron  Saint.  
+(11th  cent.)  A  native  of  Mantua,  appointed Bishop  of  Lucca  by  his  uncle  Pope  Alexander  II. He  resisted  zealously  the  encroachments  of Henry  IV,  the  German  Emperor  of  the  time. Forced  to  retire  from  his  Bishopric,  he  took refuge  with  the  monks  of  Cluny  in  France. St.  Leo  IX,  who  was  carrying  on  the  work  of his  predecessor,  Pope St. Gregory  VII,  recalled St.  Anselm  into  Italy,  appointing  him  his  legate, and  entrusting  to  him  the  administration  of several  Dioceses.  He  died  (a.d.  1086)  at Mantua,  of  which  city  he  is  a  Patron  Saint.  
 
 ANSELM  OF  CANTERBURY (St.) (April  21) Bp.,  Doctor  of  the  Church.  
 (11th  cent.)  Born  of  noble  parents  at  Aosta in  Piedmont  (a.d.  1033),  he  gave  early  proof of  exceptional  talents.  Owing  to  a  disagreement with  his  father  he  left  Italy  in  his  youth for  France, and on  the  latter's  death,  became  a monk  of  Bee  in  Normandy,  where  later  he  succeeded Prior  Lanfranc and Abbot  Herluin  in their  respective  charges.  In  the  year  1093  he accepted  the  Archbishopric  of  Canterbury, but  four  years  later,  on  account  of  his  resistance to  the  tyranny  of  William  Rufus,  was  driven into  exile.  He  returned  to  France and thence passed  into  Italy,  where  he  assisted  at  several Councils and did  much  good  work  for  the Church.  On  the  death  of  King  William  Rufus, he  came  back  to  Canterbury  at  the  invitation of  the  new  king,  Henry  I.  But  the  claim  of that  monarch  to  invest  Bishops  with  their  Sees was  met  by  4nselm  with  unflinching  opposition. Hence,  a  second  exile,  terminated  by  a  triumphant return  (a.d.  1106). St. Anselm  died  in the  year  1109.  His  life  was  written  by  the monk  Eadmer.  His  works  are  numerous,  and he  is  especially  to  be  noted  as  the  forerunner in  Theology and Metaphysics  of  the  Scholastics of  the  succeeding  centuries.  In  ability  and learning  he  was  far  in  advance  of  the  uncultured age  in  which  his  lot  was  cast. ANSGAR (St.) Bp. (Feb.  3)  
