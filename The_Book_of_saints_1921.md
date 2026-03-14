@@ -6547,73 +6547,74 @@ See SS. APHRODISIUS, CARALIPPUS, Ac
 (3rd cent.) A Martyr in Palestine under Maximian Herculeus the colleague of Diocletian, towards the close of the third century. He is commemorated in the ancient Martyrologies.  
 
 EUSEBIUS of SAMOSATA (St.) Bp. (June 21)  
-(4th cent.) The " Light-bearer to the world,"  
-as he is styled by St. Gregory Nazianzen.  
-EUSTACHIUS  
+(4th cent.) The " Light-bearer to the world," as he is styled by St. Gregory Nazianzen.  
+Bishop of Samosata from A.D. 361, this Syrian Saint was loved and venerated throughout the East. Especially devoted to him was the great St. Basil. Not only zealous but skilful in doing his part in the struggle against the Arians, it was not until A.D. 374 that they succeeded in driving St. Eusebius into exile. He was banished into Thrace, but recalled four years later by the Emperor Gratian. He had always longed to give his life for Christ as a Martyr; and in fact his death came about, A.D. 379 (or perhaps A.D. 380) by the act of an Arian woman who threw down a heavy tile from the roof of a house on his head. His last word was to beg that she might be pardoned both by God and by man.  
 
-Bishop of Samosata from A.D. 361, this Syrian Saint was loved and venerated throughout the East. Especially devoted to him was the great St. Basil. Not only zealous but skilful in doing his part in the struggle against the Arians, it was not until A.D. 374 that they succeeded in driving St. Eusebius into exile. He was banished into Thrace, but recalled four years later by the Emperor Gratian. He had always longed to give his life for Christ as a Martyr; and in fact his death came about, A.D. 379 (or perhaps A.D. 380) by the act of an Arian woman who threw down a heavy tile from the roof of a house on his head. His last word was to beg that she might be pardoned both by God and by man. EUSEBIUS of MILAN (St.) Bp. (Aug. 12)  
-(5th cent.) Probably a Greek by birth, the successor of St. Lazarus in the See of Milan. He was of great assistance to Pope St. Leo the Great in that Pontiff's efforts to repress the Eutychian heresy. He restored the churches of Milan, rebuilt the city walls, replaced the books burned by the barbarians in their inroads, and reformed Church discipline in the North of Italy. He died A.D. 465, after sixteen years of Episcopate. EUSEBIUS (St.) (Aug. 14)  
-(4th cent.) A Roman priest, sometimes honoured as a Martyr, he having ended his days in a prison (A.D. 357) during the Arian troubles fostered even in Home by the Emperor Constantius. Into the controversy among the learned regarding the attitude of St. Eusebius towards the Pontiffs, Liberius and St. Felix II, it is not necessary to enter. That Liberius never swerved from orthodoxy is clear. It is perhaps equally so that St. Eusebius did not endorse his policy in the difficult circumstances of the times, and thereby forfeited the Pontiff's favour. After the death of St. Eusebius, Pope and people joined in venerating his memory; and eight years later St. Damasus, who shared his views, was elected to the Supreme Pontificate. EUSEBIUS, PONTIANUS, VINCENT and  
-PEREGRINUS (SS.) MM. (Aug. 25)  
-(2nd cent.) Martyrs at Home under Coinmodus (a.d. 192). Their relics were translated to France in the ninth century. EUSEBIUS, NESTULUS and ZENO (Sept. 8)  (SS.) MM.  
-(4th cent.) Three brothers of Gaza in Palestine who were set upon as Christians by a Pagan mob, frenzied with delight at the news of the apostasy of the Emperor Julian (A.D. 362). The Martyrs were dragged about the streets of the city, maltreated with savage ferocity, and at last cast into a lire kindled for the purpose on the town refuse-heap. EUSEBIUS (St.) M. (Sept, 21)  
-(Date unknown.) A Martyr in Phenicia of unknown date, who appears to have given himself up voluntarily as a Christian and to have gone through excruciating torture before being executed. The Greek Martyrologies which celebrate his fortitude are silent as to the place and particulars of his Passion. EUSEBIUS (St.) Pope. (Sept. 26)  
-(4th cent.) The successor of St. Marcellus in the Chair of St. Peter (A.D. 310). He strenuously upheld the discipline of the Church and opposed any undue laxity in applying the so-called Penitential Canons, enforced on Christians who had failed in courage during the persecutions. He himself was at once called upon to suffer for Christ, being banished to Sicily, where he died after a short Pontificate of less than five months. Fragments of his epitaph written by Pope St. Damasus have been found in the Roman Catacombs whither his remains were brought for interment. EUSEBIUS of BOLOGNA (St.) Bp. (Sept. 26)  
+EUSEBIUS of MILAN (St.) Bp. (Aug. 12)  
+(5th cent.) Probably a Greek by birth, the successor of St. Lazarus in the See of Milan. He was of great assistance to Pope St. Leo the Great in that Pontiff's efforts to repress the Eutychian heresy. He restored the churches of Milan, rebuilt the city walls, replaced the books burned by the barbarians in their inroads, and reformed Church discipline in the North of Italy. He died A.D. 465, after sixteen years of Episcopate.  
+
+EUSEBIUS (St.) (Aug. 14)  
+(4th cent.) A Roman priest, sometimes honoured as a Martyr, he having ended his days in a prison (A.D. 357) during the Arian troubles fostered even in Home by the Emperor Constantius. Into the controversy among the learned regarding the attitude of St. Eusebius towards the Pontiffs, Liberius and St. Felix II, it is not necessary to enter. That Liberius never swerved from orthodoxy is clear. It is perhaps equally so that St. Eusebius did not endorse his policy in the difficult circumstances of the times, and thereby forfeited the Pontiff's favour. After the death of St. Eusebius, Pope and people joined in venerating his memory; and eight years later St. Damasus, who shared his views, was elected to the Supreme Pontificate.  
+
+EUSEBIUS, PONTIANUS, VINCENT and PEREGRINUS (SS.) MM. (Aug. 25)  
+(2nd cent.) Martyrs at Home under Coinmodus (a.d. 192). Their relics were translated to France in the ninth century.  
+
+EUSEBIUS, NESTULUS and ZENO (Sept. 8)  (SS.) MM.  
+(4th cent.) Three brothers of Gaza in Palestine who were set upon as Christians by a Pagan mob, frenzied with delight at the news of the apostasy of the Emperor Julian (A.D. 362). The Martyrs were dragged about the streets of the city, maltreated with savage ferocity, and at last cast into a lire kindled for the purpose on the town refuse-heap.  
+
+EUSEBIUS (St.) M. (Sept, 21)  
+(Date unknown.) A Martyr in Phenicia of unknown date, who appears to have given himself up voluntarily as a Christian and to have gone through excruciating torture before being executed. The Greek Martyrologies which celebrate his fortitude are silent as to the place and particulars of his Passion.  
+
+EUSEBIUS (St.) Pope. (Sept. 26)  
+(4th cent.) The successor of St. Marcellus in the Chair of St. Peter (A.D. 310). He strenuously upheld the discipline of the Church and opposed any undue laxity in applying the so-called Penitential Canons, enforced on Christians who had failed in courage during the persecutions. He himself was at once called upon to suffer for Christ, being banished to Sicily, where he died after a short Pontificate of less than five months. Fragments of his epitaph written by Pope St. Damasus have been found in the Roman Catacombs whither his remains were brought for interment.  
+
+EUSEBIUS of BOLOGNA (St.) Bp. (Sept. 26)  
 (4th cent.) A friend of St. Ambrose of Milan, who became Bishop of Bologna about A.D. 370.  
+He was a prudent and learned Prelate. He assisted at the Council of Aquileia (A.D. 380) against the Arians. Warned in a vision, he discovered the concealed relics of the Holy Martyrs Vitalis and Agricola, and reverently enshrined them. At his death (A.D. 400) he was succeeded by St. Felix.  
 
-He was a prudent and learned Prelate. He assisted at the Council of Aquileia (A.D. 380) against the Arians. Warned in a vision, he discovered the concealed relics of the Holy Martyrs Vitalis and Agricola, and reverently enshrined them. At his death (A.D. 400) he was succeeded by St. Felix. EUSEBIUS (St.) M. (Oct. 4)  
+EUSEBIUS (St.) M. (Oct. 4)  
 See SS. CAIUS, FAUSTUS, &c. EUSEBIUS (St.) M. (Oct. 22)  
 See SS. PHILIP, SEVERUS, &c. EUSEBIUS (St.) M. (Nov. 5)  
-See SS. FELIX and EUSEBIUS. EUSEBIUS, MARCELLUS, HIPPOLYTUS, MAXI
-MUS, ADRIAS, PAULINA, NEON, MARY,  
-MARTANA and AURELIA (SS.)MM. (Dec. 2)  
-(3rd cent.) Christians arrested as such in Rome in the time of the Emperor Valerian (A.D. 254-259), and after torture put to death. Eusebius, a priest, and Marcellus his deacon, were beheaded; Adrias and Hippolytus were scourged to death; Paulina died in the torturechamber; Neon and Mary were beheaded, and Maximus was thrown into the Tiber. EUSEBIUS of VERCELLI (St.) Bp., M. (Dec. 16)  
-(4th cent.) He was by birth a native of Sardinia ; and after passing some years in Rome as a priest, he was consecrated Bishop of Vercelli in the present Province of Piedmont (A.D. 340). A great and active champion of the Catholic Faith against the Arians, he was banished by their machinations to Syria, where he underwent many hardships. Before returning to Vercelli under Julian he visited St. Athanasius at Alexandria. In the words of St. Jerome : " On the return of Eusebius, Italy put off her mourning." Thenceforth to the year of his death (a.d. 370) he devoted himself, in concert with St. Hilary of Poitiers, to the extirpation of Arianism. By exception, on account of the much that he went through in the cause of religion, he is honoured liturgically as a Martyr. EUSIGNIUS (St.) M. (Aug. 5)  
-(4th cent.) An old soldier of the army of Constantius Chlorus who, surviving to the age of one hundred and ten years, refused to sacrifice to idols at the bidding of Julian the Apostate, and was scourged and beheaded as a Christian at Antioch in Syria (a.d. 362). EUSTACE.  
+See SS. FELIX and EUSEBIUS. 
 
-Saints of this name will be found described under the name EUSTACHIUS, the Latin and Ecclesiastical equivalent. EUSTACHIUS, THEOPISTES, AGAPITUS  
-and THEOPISTUS (SS.) MM. (Sept. 20)  
-(2nd cent.) According to traditional accounts, a Roman family of distinction — Eustace, an officer, his wife, Thcopista, and his sons Agapius and Theopistus — were put to death as Christians under Hadrian (A.D. 118). Their Acts, as we have them, are untrustworthy, but their cultus is universal in the East as in the West. Their relics are asserted to have been conveyed to Paris from their church in Rome in the twelfth century. They were destroyed (A.D. 1567) by the Huguenots. A curious theory makes St. Eustachius (otherwise Placidus) identical with a personage mentioned by Joscphus, and thus a Saint of the Apostolic Ace. EUSTACHIUS (St.) (Oct. 12)  
-(Date unknown.) The authorities are in complete disagreement as to who this St. Eustachius was. His date is quite unknown. Some with the Roman Martyrology describe him as a priest and Confessor in Syria; others with the Bollandists make of him an Egyptian Martyr. EUSTACHIUS, THESPESIUS and ANATOLIUS  
-(SS.) MM. (Nov. 20)  
+EUSEBIUS, MARCELLUS, HIPPOLYTUS, MAXIMUS, ADRIAS, PAULINA, NEON, MARY, MARTANA and AURELIA (SS.) MM. (Dec. 2)  
+(3rd cent.) Christians arrested as such in Rome in the time of the Emperor Valerian (A.D. 254-259), and after torture put to death. Eusebius, a priest, and Marcellus his deacon, were beheaded; Adrias and Hippolytus were scourged to death; Paulina died in the torturechamber; Neon and Mary were beheaded, and Maximus was thrown into the Tiber.  
+
+EUSEBIUS of VERCELLI (St.) Bp., M. (Dec. 16)  
+(4th cent.) He was by birth a native of Sardinia ; and after passing some years in Rome as a priest, he was consecrated Bishop of Vercelli in the present Province of Piedmont (A.D. 340). A great and active champion of the Catholic Faith against the Arians, he was banished by their machinations to Syria, where he underwent many hardships. Before returning to Vercelli under Julian he visited St. Athanasius at Alexandria. In the words of St. Jerome : " On the return of Eusebius, Italy put off her mourning." Thenceforth to the year of his death (a.d. 370) he devoted himself, in concert with St. Hilary of Poitiers, to the extirpation of Arianism. By exception, on account of the much that he went through in the cause of religion, he is honoured liturgically as a Martyr.  
+
+EUSIGNIUS (St.) M. (Aug. 5)  
+(4th cent.) An old soldier of the army of Constantius Chlorus who, surviving to the age of one hundred and ten years, refused to sacrifice to idols at the bidding of Julian the Apostate, and was scourged and beheaded as a Christian at Antioch in Syria (a.d. 362).  
+
+EUSTACE.  
+Saints of this name will be found described under the name EUSTACHIUS, the Latin and Ecclesiastical equivalent.  
+
+EUSTACHIUS, THEOPISTES, AGAPITUS and THEOPISTUS (SS.) MM. (Sept. 20)  
+(2nd cent.) According to traditional accounts, a Roman family of distinction — Eustace, an officer, his wife, Thcopista, and his sons Agapius and Theopistus — were put to death as Christians under Hadrian (A.D. 118). Their Acts, as we have them, are untrustworthy, but their cultus is universal in the East as in the West. Their relics are asserted to have been conveyed to Paris from their church in Rome in the twelfth century. They were destroyed (A.D. 1567) by the Huguenots. A curious theory makes St. Eustachius (otherwise Placidus) identical with a personage mentioned by Joscphus, and thus a Saint of the Apostolic Ace.  
+
+EUSTACHIUS (St.) (Oct. 12)  
+(Date unknown.) The authorities are in complete disagreement as to who this St. Eustachius was. His date is quite unknown. Some with the Roman Martyrology describe him as a priest and Confessor in Syria; others with the Bollandists make of him an Egyptian Martyr.  
+
+EUSTACHIUS, THESPESIUS and ANATOLIUS (SS.) MM. (Nov. 20)  
 (3rd cent.) Christians who gained the crown of martyrdom at Nieaja in Asia Minor in the persecution under the Emperor Maximums the Thracian (a.d. 235).  
 
 101  
 
 EUSTACHIUS  
 EUSTACHIUS (St.) Bp., M. (Nov. 28)  
-See SS. VALERIAN, URBAN, Ac. EUSTASIUS (EUSTATHIUS, EUSTOCHIUS) (St.) Abbot. (March 29)  
-(7th cent.) The successor of his master  
-St. Columbanus as Abbot of Luxeuil in a.d. 611.  
+See SS. VALERIAN, URBAN, Ac. 
 
-He sanctified himself by continual prayer,  
-watchings and fasting. He ruled over about  
-six hundred monks, and was the spiritual  
-father of many holy Bishops and Saints. He  
-died a.d. C26, having been Abbot for fifteen  
-vears.  
+EUSTASIUS (EUSTATHIUS, EUSTOCHIUS) (St.) Abbot. (March 29)  
+(7th cent.) The successor of his master St. Columbanus as Abbot of Luxeuil in a.d. 611.  
+
+He sanctified himself by continual prayer, watchings and fasting. He ruled over about six hundred monks, and was the spiritual father of many holy Bishops and Saints. He died a.d. C26, having been Abbot for fifteen vears.  
 
 EUSTATHIUS (St.) Bp. (July 16)  
-(4th cent.) A native of Sida in Pamphylia  
-who, as St. Athanasius assures us, had confessed  
-the Faith of Christ before the Pagan persecutors,  
-and was a man of eloquence, learning and virtue.  
+(4th cent.) A native of Sida in Pamphylia who, as St. Athanasius assures us, had confessed the Faith of Christ before the Pagan persecutors, and was a man of eloquence, learning and virtue.  
 
-He was made Bishop of Berea in Syria, and  
-thence reluctantly translated to the Patriarchal  
-See of Antioch. He assisted at the General  
-Council of Nice, where he opposed the practice  
-of translating Bishops from one See to another.  
+He was made Bishop of Berea in Syria, and thence reluctantly translated to the Patriarchal See of Antioch. He assisted at the General Council of Nice, where he opposed the practice of translating Bishops from one See to another.  
 
-He contended against the Arians, being the  
-first, according to St. Jerome, to do so with  
-the pen. Eusebius of Nicomedia sought to  
-have him removed from Antioch and by  
-calumnies succeeded in deceiving the Emperor  
-Constantine and in procuring his banishment,  
-first to Treves then to Illyricum, where his  
-virtues shone with the brightest lustre. He  
-died at Philippi in Macedonia, about a.d. 337.  
+He contended against the Arians, being the first, according to St. Jerome, to do so with the pen. Eusebius of Nicomedia sought to have him removed from Antioch and by calumnies succeeded in deceiving the Emperor Constantine and in procuring his banishment, first to Treves then to Illyricum, where his virtues shone with the brightest lustre. He died at Philippi in Macedonia, about a.d. 337.  
 
 EUSTATHIUS (St.) M. (July 28)  
 (Date unknown.) A Martyr in Galatia who  
