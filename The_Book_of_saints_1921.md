@@ -6632,28 +6632,47 @@ EUSTOCHIA (St.) V. (Sept. 28)
 Otherwise St. EUSTOCHIUM, which sec.  
 
 ♦EUSTOCHIUM (Bl.) V. (Feb. 13)  
-(15th cent.) A Benedictine nun of Padua in Italy, wonderful for her patience in the many fearful trials and sufferings with which Almighty God was pleased to allow the devil to afflict her during the whole course of her short life. She died at the age of twenty-four (a.d. 1469). EUSTOCHIUM (St.) V. (Sept. 28)  
-(5th cent.) The third and best-loved daughter of St. Paula, the Roman matron who followed St. Jerome to Palestine. She joined her mother at Bethlehem and lived a saintly life with her in the nunnery founded by the latter under the guidance of St. Jerome. Eventually she succeeded (A.D. 404) to the government of the community, and died A.D. 419. One of the finest treatises of St. Jerome is addressed to her. She spoke Greek and Latin with equal fluency, and learned Hebrew so as to be able to chant the Psalms in the original tongue. EUSTOCHIUM (St.) V.M. (Nov. 2)  
-(4th cent.) Julian the Apostate having ordered public sacrifices in honour of Venus, Eustochium, a fervent Christian of Tarsus in Cilicia, refused to comply with the Edict. She was in consequence tried and barbarously tortured, but afterwards, while engaged in prayer, peacefully gave up her soul to God (A.D. 362). EUSTOCHIUS (St.) Bp. (Sept. 19)  
-(5th cent.) The successor of St. Brictius in the See of St. Martin of Tours in the fifth century, and, according to St. Gregory of Tours, " a prelate of resplendent holiness." He died a.d. 461, having been seventeen years a Bishop. He attended the Council of Angers, a.d. 453, and some of his writings are still  
+(15th cent.) A Benedictine nun of Padua in Italy, wonderful for her patience in the many fearful trials and sufferings with which Almighty God was pleased to allow the devil to afflict her during the whole course of her short life. She died at the age of twenty-four (a.d. 1469).  
+
+EUSTOCHIUM (St.) V. (Sept. 28)  
+(5th cent.) The third and best-loved daughter of St. Paula, the Roman matron who followed St. Jerome to Palestine. She joined her mother at Bethlehem and lived a saintly life with her in the nunnery founded by the latter under the guidance of St. Jerome. Eventually she succeeded (A.D. 404) to the government of the community, and died A.D. 41 9. One of the finest treatises of St. Jerome is addressed to her. She spoke Greek and Latin with equal fluency, and learned Hebrew so as to be able to chant the Psalms in the original tongue. 
+
+EUSTOCHIUM (St.) V.M. (Nov. 2)  
+(4th cent.) Julian the Apostate having ordered public sacrifices in honour of Venus, Eustochium, a fervent Christian of Tarsus in Cilicia, refused to comply with the Edict. She was in consequence tried and barbarously tortured, but afterwards, while engaged in prayer, peacefully gave up her soul to God (A.D. 362).  
+
+EUSTOCHIUS (St.) Bp. (Sept. 19)  
+(5th cent.) The successor of St. Brictius in the See of St. Martin of Tours in the fifth century, and, according to St. Gregory of Tours, " a prelate of resplendent holiness." He died a.d. 461, having been seventeen years a Bishop. He attended the Council of Angers, a.d. 453, and some of his writings are still (*published*? or *available*?)  
+
+ 
 EUSTOCHIUS (St.) M. (Nov. 16)  
 See SS. ELPIDIUS, MARCELLUS, &c.  
 
 EUSTOLIA and SOPATRA (SS.) VV. (Nov. 9)  
-(7th cent.) One or both of these holy 102  
+(7th cent.) One or both of these holy virgins was a daughter of the Emperor Maurice of Constantinople (A.D. 582-602). They were from the beginning revered as Saints in the East, and at a very early date their names were inserted in the Roman Martyrology.  
 
-virgins was a daughter of the Emperor Maurice of Constantinople (A.D. 582-602). They were from the beginning revered as Saints in the East, and at a very early date their names were inserted in the Roman Martyrology. EUSTORGIUS (St.) (April 11)  
-(4th cent.) A priest of Nicomedia in Asia Minor who suffered for the Faith in one of the persecutions, perhaps that of Diocletian, about the year 300 ; but it is not proved that he was actually put to death. EUSTORGIUS (St.) Bp. (June 6)  
-(6th cent.) The second Bishop of Milan of that name who, after living for a long time in Rome, became Bishop of Milan (a.d. 512). He converted the Hungarian Laurianus, afterwards Bishop of Seville in Spain and Martyr. He was conspicuous for his self-sacrificing charity to the poor, and ransomed many of his flock taken prisoners in the savage wars of his time. He died A.D. 518. EUSTORGIUS (St.) Bp. (Sept. 18)  
-(4th cent.) A Greek, traditionally held to have been an official in the service of the Emperor Constantine the Great. He was elected Bishop of Milan in succession to St. Maternus, or possibly St. Mirocles. He appears from a letter of St. Athanasius to have suffered for the Faith, and to have written in defence of orthodoxy against the Arians. To him is attributed the acquisition for Milan of the relics of the Three Magi, afterwards by Frederic Barbarossa transported to Cologne. He held the See of Milan from A.D. 315 to A.D. 331. EUSTOSIUS (St.) M. (Nov. 10)  
-See SS. DEMETRIUS and OTHERS. EUSTRATIUS, AUXENTIUS, EUGENE, MARDARIUS and ORESTES (SS.; MM. (Dec. 13)  
-(4th cent.) Martyrs under Diocletian (A.D. 302 about) at Sebaste in Armenia. Eustratius was burned to death in a furnace ; Orestes roasted on a gridiron; the others done to death in various manners. Their relics are venerated in Rome in the Church of St. Apollinaris. EUTHALIA (St.) V.M. (Aug. 27)  
-(3rd cent.) A Sicilian maiden who, with her mother, was converted to Christianity by the holy martyr Alpheus and his fellow-sufferers. She herself gave her life for Christ, being, as tradition has it, done to death by her own brother. She was probably one of the victims of the Decian persecution in the middle of the third century. It is right to mention that the Bollandists consider her very existence to be hardly proved. EUTHYMIUS (St.) Abbot. (Jan. 20)  
-(5th cent.) An Armenian nobleman of Melitene who becoming a priest was on account of his conspicuous virtues and talents entrusted with the supervision of all the monasteries of the district. From love of solitude he secretly fled to Palestine, lived for some time as a hermit in a cavern near the Dead Sea, and finally gathering disciples, founded a monastery of his own. Though he consistently shunned the crowds attracted by his repute for sanctity and miracles, he was instrumental in securing many conversions, notably that of the Empress Eudoxia from Eutychianism, and in procuring submission in the East to the Decrees of the Council of Chalcedon (A.D. 451). He died A.D. 473 at the age of ninety-seven, and is among the most highly venerated Saints of the Eastern Church. EUTHYMIUS (St.) Bp., M. (March 11)  
-(9th cent.) A fervent monk raised to the See of Sardis in Lydia, who courageously resisted the Iconoclasts and was prominent in the Second Council of Nice (A.D. 787). Banished by the Emperor Nicephorus, he remained in exile till his death, twenty-nine years later, though recalled at intervals and offered permission to retain his See on condition of his tolerating the Iconoclast heresy. In the end he was scourged to death, a.d. 840, under the  
-EUTYCHIUS  
+EUSTORGIUS (St.) (April 11)  
+(4th cent.) A priest of Nicomedia in Asia Minor who suffered for the Faith in one of the persecutions, perhaps that of Diocletian, about the year 300 ; but it is not proved that he was actually put to death.  
 
-Emperor Theophilus, a bigoted Iconoclast, who however was happily reconciled to the Church before his own death two years afterwards.  
+EUSTORGIUS (St.) Bp. (June 6)  
+(6th cent.) The second Bishop of Milan of that name who, after living for a long time in Rome, became Bishop of Milan (a.d. 512). He converted the Hungarian Laurianus, afterwards Bishop of Seville in Spain and Martyr. He was conspicuous for his self-sacrificing charity to the poor, and ransomed many of his flock taken prisoners in the savage wars of his time. He died A.D. 518.  
+
+EUSTORGIUS (St.) Bp. (Sept. 18)  
+(4th cent.) A Greek, traditionally held to have been an official in the service of the Emperor Constantine the Great. He was elected Bishop of Milan in succession to St. Maternus, or possibly St. Mirocles. He appears from a letter of St. Athanasius to have suffered for the Faith, and to have written in defence of orthodoxy against the Arians. To him is attributed the acquisition for Milan of the relics of the Three Magi, afterwards by Frederic Barbarossa transported to Cologne. He held the See of Milan from A.D. 315 to A.D. 331.  
+
+EUSTOSIUS (St.) M. (Nov. 10)  
+See SS. DEMETRIUS and OTHERS.  
+
+EUSTRATIUS, AUXENTIUS, EUGENE, MARDARIUS and ORESTES (SS.; MM. (Dec. 13)  
+(4th cent.) Martyrs under Diocletian (A.D. 302 about) at Sebaste in Armenia. Eustratius was burned to death in a furnace ; Orestes roasted on a gridiron; the others done to death in various manners. Their relics are venerated in Rome in the Church of St. Apollinaris.  
+
+EUTHALIA (St.) V.M. (Aug. 27)  
+(3rd cent.) A Sicilian maiden who, with her mother, was converted to Christianity by the holy martyr Alpheus and his fellow-sufferers. She herself gave her life for Christ, being, as tradition has it, done to death by her own brother. She was probably one of the victims of the Decian persecution in the middle of the third century. It is right to mention that the Bollandists consider her very existence to be hardly proved.  
+
+EUTHYMIUS (St.) Abbot. (Jan. 20)  
+(5th cent.) An Armenian nobleman of Melitene who becoming a priest was on account of his conspicuous virtues and talents entrusted with the supervision of all the monasteries of the district. From love of solitude he secretly fled to Palestine, lived for some time as a hermit in a cavern near the Dead Sea, and finally gathering disciples, founded a monastery of his own. Though he consistently shunned the crowds attracted by his repute for sanctity and miracles, he was instrumental in securing many conversions, notably that of the Empress Eudoxia from Eutychianism, and in procuring submission in the East to the Decrees of the Council of Chalcedon (A.D. 451). He died A.D. 473 at the age of ninety-seven, and is among the most highly venerated Saints of the Eastern Church.  
+
+EUTHYMIUS (St.) Bp., M. (March 11)  
+(9th cent.) A fervent monk raised to the See of Sardis in Lydia, who courageously resisted the Iconoclasts and was prominent in the Second Council of Nice (A.D. 787). Banished by the Emperor Nicephorus, he remained in exile till his death, twenty-nine years later, though recalled at intervals and offered permission to retain his See on condition of his tolerating the Iconoclast heresy. In the end he was scourged to death, a.d. 840, under the Emperor Theophilus, a bigoted Iconoclast, who however was happily reconciled to the Church before his own death two years afterwards.  
 
 EUTHYMIUS (St.) If. (May 5)  
 (Date unknown.) A deacon of the Church of Alexandria who gave his life for Clirist, but in which persecution is now unknown.  
@@ -6741,15 +6760,22 @@ EUTYCHIUS, PLAUTUS and HERACLEAS
 
 EUTYCHIUS  
 EUTYCHIUS (St.) M. (Oct. 5)  
-See SS. PLACIDUS and OTHERS. EUTYCHIUS (St.) M. (Nov. 21)  
+See SS. PLACIDUS and OTHERS.  
+
+EUTYCHIUS (St.) M. (Nov. 21)  
 See SS. HONORIUS, EUTYCHIUS, &c. EUTYCHIUS (OYE) (St.) M. (Dec. 11)  
-(4th cent.) A Spanish Martyr of the fourth century. He suffered either at Merida or somewhere in the neighbourhood of Cadiz. Nothing is really now known about him. EUTYCHIUS and DOMITIAN (SS.) MM. (Dec. 28)  
-(Date unknown.) A priest with his deacon registered in the Roman Martyrology as having suffered martyrdom at Ancyra in Galatia (Asia Minor). We have no other record of them. EUVERT (St.) Bp. (Sept. 7)  
+(4th cent.) A Spanish Martyr of the fourth century. He suffered either at Merida or somewhere in the neighbourhood of Cadiz. Nothing is really now known about him.  
+
+EUTYCHIUS and DOMITIAN (SS.) MM. (Dec. 28)  
+(Date unknown.) A priest with his deacon registered in the Roman Martyrology as having suffered martyrdom at Ancyra in Galatia (Asia Minor). We have no other record of them.  
+
+EUVERT (St.) Bp. (Sept. 7)  
 Otherwise St. EVORTIUS, which see.    
 
 *EVAL (St.) Bp. (Nov. 20)  
-(6th cent.) A British Bishop in Cornwall, at the end of the sixth century, who has left a place-name in that county. Nothing certain is known about him. EVAGRIUS of CONSTANTINOPLE (St.) (March 6) Bp.  
+(6th cent.) A British Bishop in Cornwall, at the end of the sixth century, who has left a place-name in that county. Nothing certain is known about him.  
 
+EVAGRIUS of CONSTANTINOPLE (St.) (March 6) Bp.  
 (4th cent.) When (A.D. 370) the See of  
 Constantinople had been vacant for twenty  
 years, usurped by Arian intruders, the Catholics  
