@@ -1967,7 +1967,7 @@ ATHANASIUS (St.) Bp. ' (July 15)
 ATHANASIUS, ANTHUSA and OTHERS (SS.) MM. (Aug. 22)  
 (3rd cent.) St. Athanasius was a Bishop of Tarsus in Asia Minor, and famous for the holiness of his life. He fell a victim to the cruelty of the persecuting Emperor Valerian (about a.d. 257). St. Anthnsa, a wealthy lady of one of the various Asiatic cities named Seleucia, had previously come to Tarsus to seek baptism at the hands of St. Athanasius. Having thus become a Christian, and having on that account been driven out of Seleucia. she embraced the life of a solitary in the desert, persevering therein until her death, twentythree years later. Two servants who had «+ ? u her to Tarsus found a home with 8t. Athanasius, and in the end shared his crown of martyrdom.  
 
-♦ATHELM (St.) Bp. (Jan. 8)  
+ATHELM (St.) Bp. (Jan. 8)  
 (10th cent.) The uncle of St. Dunstan. He was the first Bishop of Wells in Somerset, and afterwards Archbishop of Canterbury, which bee lie governed from a.d. 914 to his death in a.d. 923.  
 
 ATHENODORUS (St.) Bp. M. (Oct. 18)  
@@ -2605,7 +2605,7 @@ BENEDICT II (St.) Pope. (May 7)
 (7th cent.) A Roman by birth, who in early life, devoted himself to the study of the Holy Scriptures and of the Ecclesiastical chant. On the death of St. Leo II (a.d. 683) he was elected Pope, but his enthronement was delayed for a year while awaiting the confirmation of the Emperor of Constantinople, up to that time usually sought. It was mainly on account of the case of this Pope that the then Emperor Constantine Pogonatus consented that thenceforth such Imperial approval need no longer be sought. Pope Benedict died A.d. 685, and was buried in St. Peter's.  
 
 BENEDICT XI (St.) Pope. (July 7)  
-(14th cent.) Born at Treviso, a.d. 1210, he In his youth joined the Dominican Order, of which he eventually became the Master General. Created Cardinal and Bi«hop of Ostla, he was employed by Pope Boniface VIII as his Nuncio and peacemaker in England, France, Hungary, Poland, Austria, Denmark, Servia and other countries. Everywhere he conciliated respect, and acquired fame and veneration from princes and people alike, on account of his simple piety and spirit of self-sacrifice. He was, moreover, a man of first-rate abilities, and well versed In the learning of his age. He was elected Pope, Oct. 21, 1303, but died at Perugia in the July of the following year. In the few months of his Pontificate he had done much to reform Church discipline and to repress abuses. Hence probably, the belief current at the time that he had died by poison.  
+(14th cent.) Born at Treviso, a.d. 1210, he In his youth joined the Dominican Order, of which he eventually became the Master General. Created Cardinal and Bishop of Ostla, he was employed by Pope Boniface VIII as his Nuncio and peacemaker in England, France, Hungary, Poland, Austria, Denmark, Servia and other countries. Everywhere he conciliated respect, and acquired fame and veneration from princes and people alike, on account of his simple piety and spirit of self-sacrifice. He was, moreover, a man of first-rate abilities, and well versed In the learning of his age. He was elected Pope, Oct. 21, 1303, but died at Perugia in the July of the following year. In the few months of his Pontificate he had done much to reform Church discipline and to repress abuses. Hence probably, the belief current at the time that he had died by poison.  
 
 BENEDICT (St.) (Oct. 23)  
 (4th cent.) Described as Bishop of Samaria or Sebaste in Palestine. His flock was dispersed by Julian the Apostate. St. Hilary of Poitiers received him and gave him land, whereon he built a hermitage, which later became the Abbey of St. Benedict of Quincay (a.d. 654). His relics, hidden in the fourteenth century during the wars between France and England, were never afterwards discovered. But the Bollandists throw doubts on the legendary account of this St. Benedict, certainly seriously interpolated. The Church commemorates him as a Saint, but not as a Bishop.  
@@ -11005,41 +11005,42 @@ handed down of his martyrdom give terrible details of the elaborate tortures to 
 ( 6th cent. ) The Roman Martyrology indicates St. Licerius as a Bishop of Ilerda in Spain; but, though probably born in that town, his Episcopal city appears to have been Conserans, in the South of France. Possibly even he is one and the same with Glycerius, second Bishop of Conserans. He flourished in the sixth century, and governed his Church for about forty years. Many miracles are attributed to him. LICINIUS (St.) M. (Aug. 7)  
 See SS. CARPOPHORUS, EXANNTHUS, <fec *LIDWINA (St.) V. (April 14)  
 (15th cent.) A holy virgin, born at Schiedham in Holland (a.d. 1380), who until her death (A.D. 1433) lived a life of heroic patience under unceasing pain caused by bodily infirmities. Her only comfort was that afforded her by the supernatural favours with which it pleased Almighty God to enrich her. Her shrine is at 33riiss6ls« LIE (LYE)* (St.) (Nov. 10)  
-Otherwise St. LEO of MELUN, which see. St. LEO of TROYES (May 25) is also known as St. LIE or LYE. *LIEBERT (St.) M. (July 14)  
+Otherwise St. LEO of MELUN, which see. St. LEO of TROYES (May 25) is also known as St. LIE or LYE.  
+
+*LIEBERT (St.) M. (July 14)  
 (9th cent.) A Saint born at Malines in Belgium, who became an Abbot, and suffered martyrdom at the hands of the Normans (A.D. 835).  
 
 ♦LIEPHARD (St.) Bp., M. (Feb. 4)  
-(7th cent.) A legend makes him out to have been the companion of King Cadwalla in the latter's pilgrimage to Rome. He was no doubt of English birth and may have been a Bishop, as certain local Liturgies describe him. He was done to death near Cambrai in France about a.d. 640, while on his way back to England. Some writers have confused him with St. Liudhard, the Bishop who attended Queen Bertha to Canterbury, but neither dates nor ascertained facts justify this theory. *LIETBERT (LIEBERT) (St.) Bp. (June 23)  
-(11th cent.) An Archbishop of Cambrai,  
-celebrated for the austerity of his life. He  
-underwent much persecution before his holy  
-death (A.D. 1076).  
+(7th cent.) A legend makes him out to have been the companion of King Cadwalla in the latter's pilgrimage to Rome. He was no doubt of English birth and may have been a Bishop, as certain local Liturgies describe him. He was done to death near Cambrai in France about a.d. 640, while on his way back to England. Some writers have confused him with St. Liudhard, the Bishop who attended Queen Bertha to Canterbury, but neither dates nor ascertained facts justify this theory. 
+
+*LIETBERT (LIEBERT) (St.) Bp. (June 23)  
+(11th cent.) An Archbishop of Cambrai, celebrated for the austerity of his life. He underwent much persecution before his holy death (A.D. 1076).  
 
 LIGORIUS (St.) M. (Sept. 13)  
-(Date unknown.) A hermit in the East, who having been discovered by a mob of Pagans, was slain by them. His remains were afterwards brought to Venice, where he is in veneration as a Saint and a Martyr. LILIOSA (St.) M. (July 27)  
-See SS. GEORGE, FELIX, &c. LINUS (St.) Pope, M. (Sept. 23)  
-(First cent.) The immediate successor of St. Peter in the See of Rome, as St. Irenseus and others of the early Fathers assure us. Tertullian, indeed, holds that St. Peter appointed St. Clement to take his place ; but it is now generally admitted that the order, Linus, Clctus, Clement, is the true one. St. Linus ruled the Church for twelve years (a.d. 6779), and is numbered among the Martyrs in the Canon of the Roman Mass. Tradition adds that St. Linus lies buried near the grave of the Apostle in St. Peter's. He is said to have insisted that women should never enter a church with uncovered heads. He is almost certainly the Linus mentioned by St. Paul (2 Tim. iv. 41). LIOBA (St.) V. (April 23)  
+(Date unknown.) A hermit in the East, who having been discovered by a mob of Pagans, was slain by them. His remains were afterwards brought to Venice, where he is in veneration as a Saint and a Martyr.  
+
+LILIOSA (St.) M. (July 27)  
+See SS. GEORGE, FELIX, &c.  
+
+LINUS (St.) Pope, M. (Sept. 23)  
+(First cent.) The immediate successor of St. Peter in the See of Rome, as St. Irenseus and others of the early Fathers assure us. Tertullian, indeed, holds that St. Peter appointed St. Clement to take his place ; but it is now generally admitted that the order, Linus, Clctus, Clement, is the true one. St. Linus ruled the Church for twelve years (a.d. 6779), and is numbered among the Martyrs in the Canon of the Roman Mass. Tradition adds that St. Linus lies buried near the grave of the Apostle in St. Peter's. He is said to have insisted that women should never enter a church with uncovered heads. He is almost certainly the Linus mentioned by St. Paul (2 Tim. iv. 41).  
+
+LIOBA (St.) V. (April 23)  
 (8th cent.) An Anglo-Saxon lady who at the invitation of St. Boniface passed over, together with St. Thecla and others, into Germany, to aid the Saint in his Apostolic labours. St. Lioba was made Abbess of the monastery then just founded at Bischoffsheim, and quickly won the respect and love of princes and people. She died about A.D. 779, and was  
 
-interred, like St. Boniface, at Fulda. Her biographer assures us that he himself was an eye-witness of some of the miracles wrought at her tomb. LIPHARDUS (St.) (June 3)  
-(6th cent.) A citizen of Orleans who, having occupied various municipal positions of distinction, at the age of fifty embraced the Ecclesiastical state. When a deacon he retired to a solitary spot near the city and gave himself up to a life of prajrer and penance. Later, when he had been ordained priest, a number of disciples gathered round him, and he became founder and first Abbot of a celebrated monastery. He died in the last half of the sixth century, but the exact year is not known. LITTEUS (St.) Bp., M. (Sept. 10)  
-See SS. NEMESIAN, FELIX, &c. *LIUDHARD (St.) Bp. (May 7)  
+interred, like St. Boniface, at Fulda. Her biographer assures us that he himself was an eye-witness of some of the miracles wrought at her tomb.  
+
+LIPHARDUS (St.) (June 3)  
+(6th cent.) A citizen of Orleans who, having occupied various municipal positions of distinction, at the age of fifty embraced the Ecclesiastical state. When a deacon he retired to a solitary spot near the city and gave himself up to a life of prajrer and penance. Later, when he had been ordained priest, a number of disciples gathered round him, and he became founder and first Abbot of a celebrated monastery. He died in the last half of the sixth century, but the exact year is not known.  
+
+LITTEUS (St.) Bp., M. (Sept. 10)  
+See SS. NEMESIAN, FELIX, &c.  
+
+*LIUDHARD (St.) Bp. (May 7)  
 Otherwise St. LETARD, which see.  
 
 LIVINUS (LEBWIN) (St.) Bp., M. (Nov. 12)  
-(7th cent.) An Irish Saint who, desirous of  
-winning souls to God, repaired to St. Augustine  
-of Canterbury and was by him ordained priest  
-and speeded on his way to Flanders, then  
-sadly in need of missionaries. St. Livinus paid  
-a farewell visit to Ireland, whence he returned  
-already consecrated Bishop and accompanied  
-by several other holy and zealous men. In  
-Flanders his Apostolate was most fruitful and  
-was crowned by the martyrdom of the holy  
-man at the hands of the Pagans (a.d. 650 about).  
-
-His relics were enshrined at Ghent.  
+(7th cent.) An Irish Saint who, desirous of winning souls to God, repaired to St. Augustine of Canterbury and was by him ordained priest and speeded on his way to Flanders, then sadly in need of missionaries. St. Livinus paid a farewell visit to Ireland, whence he returned already consecrated Bishop and accompanied by several other holy and zealous men. In Flanders his Apostolate was most fruitful and was crowned by the martyrdom of the holy man at the hands of the Pagans (a.d. 650 about). His relics were enshrined at Ghent.  
 
 LIZIER (St.) Bp. (Aug. 27)  
 Otherwise St. LICERIUS, which see.  
@@ -11056,18 +11057,31 @@ Otherwise St. LAUDUS or LAUTO, which see.
 Otherwise St. LEOCADIA, which see.    
 
 *LOLANUS (St.) (Sept. 2)  
-(5th cent.) A tradition makes him a native of Cana of Galilee and a nephew of St. Serf. The account goes on to say that, after living seven years in Rome, he came to Scotland and there finished his earthly course. But the whole legend is of very uncertain authority. *LOMAN (LUMAN) (St.) Bp. (Feb. 17)  
-(5th cent.) The first Bishop of Trim in Meath, said to have been a nephew of St. Patrick. *LOMER (LAUDOMARUS) (St.) Bp. (Jan. 19)  
-(6th cent.) A French Saint, Abbot of a monastery near Chartres, and famous for his gift of miracles. He died a.d. 593. LONGINUS (St.) M. (March 15)  
-(1st cent.) It is an accredited tradition that this St. Longinus was the centurion who pierced the side of Our Lord hanging on the Cross (John xix. 34) ; and that, converted to Christianity, he retired into Cappadocia, his native country, where he was put to death, a Martyr to his Faith in Christ. His body is venerated in Rome in the Church of St. Augustine. LONGINUS (St.) M. (April 24)  
-See SS. EUSEBIUS, NEON, &c. LONGINUS (St.) Bp., M. (May 2)  
-See SS. VINDEMNIALIS, EUGENE, &c. LONGINUS (St.) M. (June 24)  
-See SS. ORENTIUS, HEROS, &c. LONGINUS (St.) M. (July 21)  
+(5th cent.) A tradition makes him a native of Cana of Galilee and a nephew of St. Serf. The account goes on to say that, after living seven years in Rome, he came to Scotland and there finished his earthly course. But the whole legend is of very uncertain authority.  
+
+*LOMAN (LUMAN) (St.) Bp. (Feb. 17)  
+(5th cent.) The first Bishop of Trim in Meath, said to have been a nephew of St. Patrick.  
+
+*LOMER (LAUDOMARUS) (St.) Bp. (Jan. 19)  
+(6th cent.) A French Saint, Abbot of a monastery near Chartres, and famous for his gift of miracles. He died a.d. 593.  
+
+LONGINUS (St.) M. (March 15)  
+(1st cent.) It is an accredited tradition that this St. Longinus was the centurion who pierced the side of Our Lord hanging on the Cross (John xix. 34) ; and that, converted to Christianity, he retired into Cappadocia, his native country, where he was put to death, a Martyr to his Faith in Christ. His body is venerated in Rome in the Church of St. Augustine.  
+
+LONGINUS (St.) M. (April 24)  
+See SS. EUSEBIUS, NEON, &c.  
+
+LONGINUS (St.) Bp., M. (May 2)  
+See SS. VINDEMNIALIS, EUGENE, &c.  
+
+LONGINUS (St.) M. (June 24)  
+See SS. ORENTIUS, HEROS, &c.  
+
+LONGINUS (St.) M. (July 21)  
 See SS. VICTOR, ALEXANDER, &c.  
 
 167  
 
-LORGIUS  
 LORGIUS (St.) M. (March 2)  
 See SS. LUCIUS, ABSALOM, &c.  
 
@@ -11077,10 +11091,10 @@ LOUIS of CORDOVA (St.) M. (April 30)
 See SS. AMATOR, PETER, &c.  
 
 LOUIS of TOULOUSE (St.) Bp. (Aug. 19)  
-(13th cent.) Born in Provence (A.D. 1274), he was the great nephew of St. Louis, King of France, and through his mother, the greatnephew also of St. Elisabeth of Hungary. He was inured to hardships from his childhood, both because of the strictness of his homelife, and because of the ill-treatment he had received while kept prisoner for seven years at Barcelona, as hostage for his father, who had been taken prisoner of war. When again free he voluntarily embraced a life of austerity and prayer. He made his Religious Prof ession as a Franciscan Friar in Rome. Reluctantly, and " as the poorest of the poor," he took possession of the important Archbishopric of Toulouse, to which he was almost at once promoted. He did not, however, live to govern his Diocese, but passed away at Brignolles, his birthplace, Aug. 19, A.D. 1297, when only twenty-three years old. Such was his repute for sanctity that he was almost at once canonised. His relics are at Valentia in Spain.  
+(13th cent.) Born in Provence (A.D. 1274), he was the great nephew of St. Louis, King of France, and through his mother, the greatnephew also of St. Elisabeth of Hungary. He was inured to hardships from his childhood, both because of the strictness of his homelife, and because of the ill-treatment he had received while kept prisoner for seven years at Barcelona, as hostage for his father, who had been taken prisoner of war. When again free he voluntarily embraced a life of austerity and prayer. He made his Religious Prof ession as a Franciscan Friar in Rome. Reluctantly, and "as the poorest of the poor," he took possession of the important Archbishopric of Toulouse, to which he was almost at once promoted. He did not, however, live to govern his Diocese, but passed away at Brignolles, his birthplace, Aug. 19, A.D. 1297, when only twenty-three years old. Such was his repute for sanctity that he was almost at once canonised. His relics are at Valentia in Spain.  
 
 LOUIS IX (St.) King of France. (Aug. 25)  
-(13th cent.) The Saint of whom the freethinkers, Gibbon and Voltaire, say : " He united the virtues of a King to those of a Hero and to those of a Man." and " Never has it been accorded to man to push virtue further." Born near Paris, A.D. 1215, he succeeded his father, Louis VIII, under the Regency of his mother, Blanche of Castile, in A.D. 1226. He reigned for forty-four years, more austere and more prayerful than a Religious in his private life, an energetic ruler but considerate of his people, and above all " hungering and thirsting after justice " in the discharge of his public duties. He married Marguerite of Provence and, through their son, Philip, the Royal House of France was perpetuated. The Kings of England also are by the female line descendants of St. Louis. St. Louis was the last of the Crusaders and led two expeditions against the Infidels, in the second of which he died of dysentery, before Tunis, Aug. 25, A.D. 1270. nis relics enshrined at Paris were destroyed in the Revolution (A.D. 1793).  
+(13th cent.) The Saint of whom the freethinkers, Gibbon and Voltaire, say: "He united the virtues of a King to those of a Hero and to those of a Man." and "Never has it been accorded to man to push virtue further." Born near Paris, A.D. 1215, he succeeded his father, Louis VIII, under the Regency of his mother, Blanche of Castile, in A.D. 1226. He reigned for forty-four years, more austere and more prayerful than a Religious in his private life, an energetic ruler but considerate of his people, and above all " hungering and thirsting after justice" in the discharge of his public duties. He married Marguerite of Provence and, through their son, Philip, the Royal House of France was perpetuated. The Kings of England also are by the female line descendants of St. Louis. St. Louis was the last of the Crusaders and led two expeditions against the Infidels, in the second of which he died of dysentery, before Tunis, Aug. 25, A.D. 1270. nis relics enshrined at Paris were destroyed in the Revolution (A.D. 1793).  
 
 LOUIS BERTRAND (St.) (Oct. 9)  
 (16th cent.) Born at Valencia (a.d. 1526) and a blood relation of St. Vincent Ferrer ; like him, he took the habit of the Order of St. Dominic. Like him too, he was animated with the spirit of an Apostle and fired with the zeal of a reformer. His life was spent in preaching in Spain and in South America. For seven years he successfully evangelised the Indians in the Spanish Colonies in the New World. He is said to have baptised ten thousand of them in Panama and neighbouring provinces. He died at Valencia, Oct. 9, A.D. 1581.  
@@ -11093,10 +11107,10 @@ LOUIS BERTRAND (St.) (Oct. 9)
 (18th cent.) Born in Brittany of poor parents  
 (a.d. 1673) he from childhood devoted himself  
 to the service of God. Through life his guiding  
-motto was : " For God alone." Some chari
+motto was : "For God alone." Some chari
 168  
 
-table persons having defrayed the cost of his education, he was ordained priest (A.D. 1700). He then forthwith set forth on his career as an Apostolic missionary iu France. Prematurely worn out by his labours as a travelling preacher, and by the austerity of his life, he died at La Rochelle, April 28, a.d. 1716, at the age of forty-three. To carry on his work he had founded the Institute of the " Daughters of Wisdom," and the " Society of Priests of the Holy Ghost." His writings, especially his little treatise on " True Devotion to Our Blessed Lady," are of great doctrinal value. He was beatified by Pope Leo XIII (a.d. 1886).  
+table persons having defrayed the cost of his education, he was ordained priest (A.D. 1700). He then forthwith set forth on his career as an Apostolic missionary iu France. Prematurely worn out by his labours as a travelling preacher, and by the austerity of his life, he died at La Rochelle, April 28, a.d. 1716, at the age of forty-three. To carry on his work he had founded the Institute of the "Daughters of Wisdom," and the "Society of Priests of the Holy Ghost." His writings, especially his little treatise on "True Devotion to Our Blessed Lady," are of great doctrinal value. He was beatified by Pope Leo XIII (a.d. 1886).  
 
 LOUP (St.) Bp. (July 29)  
 Otherwise St. LUPUS of TROYES, which see.  
@@ -11169,7 +11183,7 @@ See SS. MONTANUS, LUCIUS, etc. LUCIUS, ABSALOM and LORGIUS (March 2)  (SS.) MM.
 (Date unknown.) Little or nothing is known of these Saints, and even their names are uncertain. Lucius is sometimes found written Lucas or Luke, Lorgius becomes Largus, and Absalom, Absolucius. St. Lucius is said to have been a Spaniard and a Bishop. It is agreed that all three suffered in Cappadocia (Asia Minor), and it seems probable that they lived in the first century of the Christian era. LUCIUS (St.) Pope, M. (March 4)  
 (3rd cent.) The twenty-second successor of St. Peter, by birth a Roman or perhaps a Tuscan. In his short Pontificate (A.D. 252254) he distinguished himself by his resistance to the Novatian rigorists. St. Cyprian extols his virtue and his zeal for souls. He was banished for a time from Rome, and after his return was seized and put to death in the persecution under Valerian. He is commemorated annually in the Western Liturgies. LUCIUS (St.) (April 22)  
 See SS. APELLES and LUCIUS. LUCIUS of CYRENE (St.) Bp. (May 6)  
-(1st cent.) One of the " prophets and doctors " recorded in Holy Scripture as being in the Church at Antioch when Paul and Barnabas were set apart for their Apostolic work (Acts xiii. 1). He is stated to have been "of Cyrene," whence the tradition that he was the first Bishop of that city in the Ptolemais (Africa). LUCIUS (St.) M. (May 23)  
+(1st cent.) One of the "prophets and doctors" recorded in Holy Scripture as being in the Church at Antioch when Paul and Barnabas were set apart for their Apostolic work (Acts xiii. 1). He is stated to have been "of Cyrene," whence the tradition that he was the first Bishop of that city in the Ptolemais (Africa). LUCIUS (St.) M. (May 23)  
 See SS. QUINCTIANUS, LUCIUS, &c. LUCIUS and OTHERS (SS.) MM. (Aug. 20)  
 (4th cent.) A Senator or Dignitary of Cyrene in Africa, converted to Christianity on witnessing the constancy of the Martyr-Bishop St. Theodore. He himself drew to the Faith, Dignianus, the Governor or magistrate, and in company with him retired to the Island of Cyprus, where, with many other Christians, they were put to death in the persecution under Diocletian (A.D. 311). LUCIUS (St.) Bp., M. (Sept. 10)  
 See SS. NEMESIAN, FELIX, &C. LUCIUS (St.) M. (Oct. 4)  
@@ -11191,7 +11205,7 @@ LUCY (LUCEIAS) and TWENTY OTHERS
 (SS.) MM. (June 25)  
 (3rd cent.) They are said to have been prisoners taken in war and sent to Rome by the Emperor Probus (a.d. 260). In Rome they were put to death as Christians. The Acts of St. Lucy (which the Bollandists deem not untrustworthy) have it that, though a virgin consecrated to God, a captive chief, by name Aucejas, sought her in marriage, and that in the end she was martyred. There is, however, much difficulty in identifying the Saints and in reconciling dates in their legends. See SS. LUCILLA, Ac. (July 29) ; also SS. FAUSTUS, &c. (June 24), and St. LUCY (July 6). LUCY, ANTONINUS, SEVERINUS, DIODORUS,  
 DION and OTHERS (SS.) MM. (July 6)  
-(Date uncertain.) In the opinion of the learned Bollandists, these Saints are no other than the " St. Lucy and Twenty-two Martyrs " commemorated on June 25. The St. Lucy of July 6 is said to have been a native of Campania, and to have, with her companions, suffered in Rome. There is a legend that she converted to Christianity the notorious Rictius Varus, the savage Prefect who condemned to torture and death so many hundreds of the Faithful. LUCY and GEMINIANUS (SS.) MM. (Sept. 16)  
+(Date uncertain.) In the opinion of the learned Bollandists, these Saints are no other than the "St. Lucy and Twenty-two Martyrs" commemorated on June 25. The St. Lucy of July 6 is said to have been a native of Campania, and to have, with her companions, suffered in Rome. There is a legend that she converted to Christianity the notorious Rictius Varus, the savage Prefect who condemned to torture and death so many hundreds of the Faithful. LUCY and GEMINIANUS (SS.) MM. (Sept. 16)  
 (4th cent.) St. Lucy, a Christian widow, seventy-five years old, was betrayed in Rome to the persecutors under Diocletian (a.d. 300 about), tortured and put to death together with a neophyte, Geminianus, baptised in her prison. But the Acts now extant of these Saints are untrustworthy as to details. LUCY (St.) V.M. (Dec. 13)  
 (4th cent.) A Sicilian maiden, one of the most famous of the sufferers (a.d. 304) in the great persecution under Diocletian, and still commemorated daily in the Canon of the Mass. While the Christians were being sought out, she distributed her wealth to the poor, and was thereupon denounced by a young noble, to whom her mother wished to give her in marriage. She bravely endured shameful tortures and indignities, culminating in the driving of a sword through her throat. Her last words were a prophecy of the coming peace of the Church. Her relics are venerated at Metz and at Venice. LUDGER (St.) Bp. (March 26)  
 (9th cent.) The Apostle of Saxony and first Bishop of Munster. He was ..a Frisian by birth and educated by St. Gregory of Utrecht, but afterwards a pupil of Alcuin at York. Returning to his fatherland as a missionary, he successfully evangelised a great part of Central Germany, notably Westphalia, where he founded the Bishopric of Munster. The holiness of his life and his zeal for souls won him the respect and affection of Pope St. Hadrian I and of the Emperor Charlemagne. He died at the age of sixty-six, March 26, A.d. 809. A Life of St. Gregory of Utrecht is from his pen.  
@@ -11210,7 +11224,7 @@ See SS. PARMENIUS, HELIMENES, &c.
 he studied at Douai and in Rome. On his  
 return to England as a priest he was subjected  
 in the Tower to the horrible torture known as  
-the " Scavenger's daughter." He was put to  
+the "Scavenger's daughter." He was put to  
 death at Tvburn, A.D. 1582.  
 
 LUKE (St.) M. (Sept. 10)  
@@ -11223,7 +11237,7 @@ See SS. CLAUDIUS, LUPERCUS, &c. LUPERIUS (St.) Bp. (Nov. 15)
 (8th cent.) A Bishop of Verona (Italy) who flourished at the end of the eighth century, but the details of whose career have been lost. LUPICINUS and FELIX (SS.) Bps. (Feb. 3)  
 (5th cent.) Set down in the Martyrologics as Bishops of Lyons. To St. Lupicinus is usually assigned the date a.d. 486. St. Felix, who is presented as his contemporary, was most likely Bishop of some other See who died at Lyons at about the same time as St. Lupicinus, but nothing certain is known about either the one or the other of these Saints. LUPICINUS (St.) Abbot. (March 21)  
 (5th cent.) A Saint whose sanctity and miracles are dwelt upon by St. Gregory of Tours. He was Abbot of the monastery of St. Claud in the Jura, and later of that of Lauconne, founded by his brother, St. Romanus. He flourished about a.d. 480. LUPICINUS (St.) Bp. (May 31)  
-(5th cent.) A Bishop of Verona, some time between the fourth and seventh centuries. Ancient writings preserved at Verona say of him that he was " most holy, the best of Bishops "; and that the grief of his people at his death was " so great as to be unbelievable." LUPPUS (St.) M. (Aug. 23)  
+(5th cent.) A Bishop of Verona, some time between the fourth and seventh centuries. Ancient writings preserved at Verona say of him that he was "most holy, the best of Bishops"; and that the grief of his people at his death was "so great as to be unbelievable." LUPPUS (St.) M. (Aug. 23)  
 (Date unknown.) A Christian slave who was put to death for the Faith, but at what date and in what place is unknown. Greeks and Latins have him equally in honour.  
 MACARIUS  
 
@@ -11295,7 +11309,7 @@ See SS. JANUARIUS, MAXIMA, &c.
 See SS. JANUARIUS, MAXIMA, &c.  
 
 One of six Martyrs who suffered as Christians in Africa. In some Martyrologies the masculine termination occurs; and so with her companion St. Maxima. Januarius is only registered with these Saints in the Roman Martyrologies, but three other Saints are frequently mentioned in other Martyrologies. No particulars and no dates are known. MACARIUS THE YOUNGER (St.) (Jan. 2)  
-(4th cent.) Sometimes styled " the Younger," sometimes "of Alexandria," to distinguish him from another St. Macarius who was also a hermit in Egypt. He is said to have abandoned the trade of a fruiterer to consecrate himself to God in the Thebaid in Upper Egypt, about A.D. 335. Thence passing into Lower Egypt, he took up his abode in the Desert of Nitria. Here he was ordained priest and surpassed the other hermits in the practice of austerities. He became renowned for his gifts of prophecy and miracleworking. Lucius, the intruded Arian Patriarch of Alexandria banished him on account of his unflinching Orthodoxy. He died, according to Palladius, about a.d. 395, at an advanced age. He is alleged to have written a Rule for Monks and some Discourses on spiritual subjects. MACARIUS THE ELDER (St.) (Jan. 15)  
+(4th cent.) Sometimes styled "the Younger," sometimes "of Alexandria," to distinguish him from another St. Macarius who was also a hermit in Egypt. He is said to have abandoned the trade of a fruiterer to consecrate himself to God in the Thebaid in Upper Egypt, about A.D. 335. Thence passing into Lower Egypt, he took up his abode in the Desert of Nitria. Here he was ordained priest and surpassed the other hermits in the practice of austerities. He became renowned for his gifts of prophecy and miracleworking. Lucius, the intruded Arian Patriarch of Alexandria banished him on account of his unflinching Orthodoxy. He died, according to Palladius, about a.d. 395, at an advanced age. He is alleged to have written a Rule for Monks and some Discourses on spiritual subjects. MACARIUS THE ELDER (St.) (Jan. 15)  
 (4th cent.) An Egyptian Saint, born about A.D. 300, who in his youth retired to a solitary hut, where he combined assiduous prayer and the practice of austerities with the tending of sheep and the plaiting of baskets. Soon, to escape public notice, he fled to the Desert of Scete, where he was promoted to the priesthood and passed the remaining sixty years of his life. His chief duty was to celebrate daily the Divine Mysteries and otherwise minister to the spiritual needs of the several thousand members of this  
 171  
 
@@ -11366,7 +11380,7 @@ Otherwise St. MALO, which see.
 *MACKESSOG (KECSAG) (St.) (March 10)  
 Otherwise St. KESSOG, which see. MACRA (St.) V.M. (Jan. 6)  
 (3rd cent.) A young Christian maiden of Reims in France. At the outbreak, or rather some years before the outbreak of the persecution under Diocletian, she was arrested as a Christian (A.D. 287) and brought before the infamous Rictiovarus, the Imperial representative at Fismes in Champagne. She was constant in her confession of Christ. She is described as having been subjected to the most fiendish tortures before being burned to death. Like St. Agatha of Sicily, in art she is usually represented with a pair of pincers in her hand, in memory of one of the happenings in her torture chamber. MACRINA THE ELDER (St.) (Jan. 14)  
-(4th cent.) This holy woman was the paternal grandmother of SS. Basil and Gregory Nyssen. According to St. Basil, she was a Christian, eminent for her piety, who had stored up in her memory the teachings of St. Gregory Thaumaturgus, the famous Apostle of her native city, Neo-Csesarea in Pontus. During the persecutions under Diocletian and his colleague Galerius, she with her husband had been forced to take refuge in the forests of the province, and had remained concealed in a hiding-place on the shores of the Black Sea for seven years or more. In A.D. 311, they were able to return to Neo-Caesarea ; but at the renewal of the persecution under Licinius, they suffered so much that St. Gregory Nyssen, their grandson, was able to proclaim them " true Martyrs and Confessors of Christ." St. Basil, also her grandson, was in his boyhood committed to the care of St. Macrina, who may be said, humanly speaking, to have laid the foundations of the sanctity of this celebrated Doctor of the Church. St. Macrina passed away about the middle of the fourth century. MACRINA THE YOUNGER (St.) V. (July 19)  
+(4th cent.) This holy woman was the paternal grandmother of SS. Basil and Gregory Nyssen. According to St. Basil, she was a Christian, eminent for her piety, who had stored up in her memory the teachings of St. Gregory Thaumaturgus, the famous Apostle of her native city, Neo-Csesarea in Pontus. During the persecutions under Diocletian and his colleague Galerius, she with her husband had been forced to take refuge in the forests of the province, and had remained concealed in a hiding-place on the shores of the Black Sea for seven years or more. In A.D. 311, they were able to return to Neo-Caesarea ; but at the renewal of the persecution under Licinius, they suffered so much that St. Gregory Nyssen, their grandson, was able to proclaim them "true Martyrs and Confessors of Christ." St. Basil, also her grandson, was in his boyhood committed to the care of St. Macrina, who may be said, humanly speaking, to have laid the foundations of the sanctity of this celebrated Doctor of the Church. St. Macrina passed away about the middle of the fourth century. MACRINA THE YOUNGER (St.) V. (July 19)  
 (4th cent.) The sister of SS. Basil, Gregory Nyssen and Peter of Sebaste. At an early age she was betrothed to a rich and noble youth, but his sudden death determined her to renounce all worldly prospects and to consecrate herself wholly to the service of God. She helped in the training of her brothers, and later on was instrumental in the foundation of several Religious Houses, over one of which she ultimately presided as Abbess. She had for many years the consolation of the presence of her brother, St. Gregory Nyssen, with whom she spent her last hours in prayer and heavenly  
 
 conversation. She died in December, A.D. 379, and was buried in the grave of her mother, St. Eumelia, in the Church of the Forty Martyrs at Caesarea. St. Gregory Nyssen has left us a magnificent Funeral Discourse delivered at the obsequies of his holy sister. From some allusions in it the learned Bollandists are inclined to post-date the death of St. Macrina to July, A.D. 380. MACRINA (St.) V.M. (July 20)  
@@ -11595,10 +11609,10 @@ MAPRILIS (St.) M. (Aug. 22)
 See SS. MARTIAL, SATURNINUS, &c.  
 
 MARANA and CYRA (SS.) MM. (Aug. 3)  
-(5th cent.) Two Christian maidens who led an austere life near Bersea in Syria in the fifth century. They were the Prototypes of the " Anchoresses " of the Middle Ages. They observed continuous silence, admitting only women to speak with them, and that on the single day of Pentecost in each year.  
+(5th cent.) Two Christian maidens who led an austere life near Bersea in Syria in the fifth century. They were the Prototypes of the "Anchoresses" of the Middle Ages. They observed continuous silence, admitting only women to speak with them, and that on the single day of Pentecost in each year.  
 
 MARCELLA (St.) Widow. (Jan. 31)  
-(5th cent.) St. Jerome, who was her guest for three years (a.d. 382), styles her " a model of widowhood and sanctity." Under his direction she studied the Scriptures and drew around her a circle of Roman ladies, among whom were SS. Paula and Eustochium. We have no less than eleven letters addressed to her by the holy Doctor of the Church. Her mansion was in Rome, and was plundered by the Goths when the Imperial city was sacked by Alaric and his barbarians (A.D. 409). The Saint herself was savagely scourged for concealing, as the Goths thought, money and treasures which in reality had been already distributed by her among the poor. The Saint died from the effects of this ill-treatment about a.d. 410.  
+(5th cent.) St. Jerome, who was her guest for three years (a.d. 382), styles her "a model of widowhood and sanctity." Under his direction she studied the Scriptures and drew around her a circle of Roman ladies, among whom were SS. Paula and Eustochium. We have no less than eleven letters addressed to her by the holy Doctor of the Church. Her mansion was in Rome, and was plundered by the Goths when the Imperial city was sacked by Alaric and his barbarians (A.D. 409). The Saint herself was savagely scourged for concealing, as the Goths thought, money and treasures which in reality had been already distributed by her among the poor. The Saint died from the effects of this ill-treatment about a.d. 410.  
 
 MARCELLA (St.) M. (June 28)  
 See SS. PLUTARCH, SERENUS, &c.  
@@ -11620,7 +11634,7 @@ MARCELLINUS of ANCONA (St.) (Jan. 9)
 (6th cent.) A native of Ancona who succeeded St. Traso as Bishop of that See (a.d. 550). By his prayers he relieved his people from the attack of the Goths under Totila. He is also said to have extinguished with a Book of the Gospels a destructive fire which was threatening to devastate the whole town. The Sacred volume was treasured as a relic in the Cathedral of Ancona, where the remains of St. Marcellinus repose together with those of the other Patron Saints of the city.  
 
 MARCELLINUS (St.) M. (April 6)  
-(5th cent.) An illustrious friend of the great St. Augustine of Hippo, who dedicated to him his memorable book " Of the City of God." Marcellinus was a Secretary or Minister of the Emperor Honorius, and was commissioned by him to enforce in Africa the Imperial edict against the Donatist faction. The energy and zeal of Marcellinus so infuriated Marinus, the leader of the recalcitrants, that he falsely accused Marcellinus of complicity with the rebel Heraclion, and caused him to be arrested and to be put to death without even the formality of a trial. Honorius, in calling Marinus to account, referred to Marcellinus as a man of unblemished character. We have Funeral Discourses on the latter from the pens both of St. Augustine and of St. Jerome.  
+(5th cent.) An illustrious friend of the great St. Augustine of Hippo, who dedicated to him his memorable book "Of the City of God." Marcellinus was a Secretary or Minister of the Emperor Honorius, and was commissioned by him to enforce in Africa the Imperial edict against the Donatist faction. The energy and zeal of Marcellinus so infuriated Marinus, the leader of the recalcitrants, that he falsely accused Marcellinus of complicity with the rebel Heraclion, and caused him to be arrested and to be put to death without even the formality of a trial. Honorius, in calling Marinus to account, referred to Marcellinus as a man of unblemished character. We have Funeral Discourses on the latter from the pens both of St. Augustine and of St. Jerome.  
 
 MARCELLINUS, VINCENT and DOMNINUS  
 (SS.) (April 20)  
@@ -11662,7 +11676,7 @@ MARCELLUS (St.) Bp. (April 9)
 177  
 
 MARCELLUS  
-bishop of Vienne. At first, the then King of Burgundy, an Arian, encouraged those of his sect to persecute the Saint ; but the prince himself was later converted and became one of the Bishop's warmest friends and supporters. St. Gregory of Tours styles St. Marcellus " a man of eminent sanctity," and there are several Hymns which extol him as a worker of miracles. He died at the beginning of the sixth century, after an Episcopate of forty years, at an Abbey in the Diocese of Frejus. Both St. Die and Frejus treasured portions of his relics until they were scattered by the Huguenots in a.d. 1562.  
+bishop of Vienne. At first, the then King of Burgundy, an Arian, encouraged those of his sect to persecute the Saint ; but the prince himself was later converted and became one of the Bishop's warmest friends and supporters. St. Gregory of Tours styles St. Marcellus "a man of eminent sanctity," and there are several Hymns which extol him as a worker of miracles. He died at the beginning of the sixth century, after an Episcopate of forty years, at an Abbey in the Diocese of Frejus. Both St. Die and Frejus treasured portions of his relics until they were scattered by the Huguenots in a.d. 1562.  
 
 MARCELLUS and ANASTASIUS (June 29)  (SS.) MM.  
 (3rd cent.) Roman citizerjs who, during the persecution under the Emperor Aurelian, were sent by Pope St. Stephen into Gaul to join others in preaching and spreading the Gospel. They were put to death as Christians in the neighbourhood of Bourges. St. Anastasius expired on the rack, but St. Marcellus survived to be beheaded (a.d. 274). Their memory is preserved not only in legends and traditions, but in the monuments and ruins in the surrounding country. A church in the town still bearing the name of Saint-Marcel possesses their relics.  
@@ -11683,7 +11697,7 @@ MARCELLUS (St.) M. (Oct. 7)
 See SS. APULEIUS and MARCELLUS.  
 
 MARCELLUS (St.) M. (Oct. 30)  
-(3rd cent.) The Official " Acts " report that  
+(3rd cent.) The Official "Acts" report that  
 178  
 
 during a festival at Tangier (Africa) in honour of the birthday of the Emperor Maximian Herculeus, a centurion by name Marcellus refused to take part in the religious (Pagan) rites and, declaring himself a soldier of Christ, the Eternal King, threw down his arms and insignia, and that he was thereupon arrested and imprisoned and in the end beheaded (a.d. 298). These official Acts should have been written out by St. Cassian (Dec. 3), the notary of the Court. But he was so indignant at the injustice of the sentence that he threw down his stylus and parchment and refused to write, for which action he was imprisoned and afterwards condemned to death. The Spanish tradition that St. Marcellus was the brother of St. Nona is unreliable.  
@@ -11750,7 +11764,7 @@ MARCIAN of RAVENNA (St.) Bp. (May 22)
 
 MARCIAN, NICANOR, APOLLONIUS and  
 OTHERS (SS.) MM. (June 5)  
-(4th cent.) Egyptian Martyrs in the persecution under Diocletian and Galerius, at the beginning of the fourth century. Some curious details are given of their sufferings. They were exposed without food or drink to the rays of the June sun, and at the same time choice viands and cooling drinks were laid out near them to be had at the price of offering incense to an idol. They kept repeating the words of Christ : " Not in bread alone does man live "; and persevered to the end chanting the praises of God.  
+(4th cent.) Egyptian Martyrs in the persecution under Diocletian and Galerius, at the beginning of the fourth century. Some curious details are given of their sufferings. They were exposed without food or drink to the rays of the June sun, and at the same time choice viands and cooling drinks were laid out near them to be had at the price of offering incense to an idol. They kept repeating the words of Christ : "Not in bread alone does man live "; and persevered to the end chanting the praises of God.  
 
 MARCIAN of SYRACUSE (St.,) Bp., M. (June 14)  
 (Date uncertain.) Said to have been the first Bishop of Syracuse and, according to the Sicilian tradition, sent there as missionary by St. Peter the Apostle himself. But, as the date of his death (which is said to have been brought about by the action of the Jews) cannot, according to the best authorities, be placed before a.d. 254 about, it is more likely that by St. Peter is meant the Pope of the time, regarded as holding the place of the Apostle. St. Marcian would thus be a third century Saint. It appears that during the Saracen invasion of Sicily the relics of St. Marcian were secretly transferred to Gaeta.  
@@ -11831,7 +11845,7 @@ Penitent.
 Queen, Widow.  
 
 (11th cent.) The grand-daughter of King Edmond Ironside, sister of Edgar Atheling, and through her mother related to St. Stephen, King of Hungary. In exile during the Danish domination in England, St. Margaret with the rest of the Royal Family lived in England during the reign of St. Edward the Confessor. After the death of the latter, St. Margaret's mother, a Hungarian princess, was compelled to seek refuge for her children and herself on the Continent from the Normans, who had become masters of England. A storm drove the ship on which she had embarked on to the coast of Scotland. They were welcomed by King Malcolm III, who made Margaret his Queen. The Saint used her influence as Queen for the good of religion and for the promotion of justice. She had especial thought for the poor, nor would suffer any to be oppressed. Among the pious foundations she made was the Abbey of Dunfermline. In her private life she was devoted to prayer. The Book of the Gospels she studied is still preserved in the Bodleian Library at Oxford. She foretold the day of her death, which occurred Nov. 16, A.D. 1093, on which day her festival is still celebrated in Scotland, though in other countries, by Papal Decree, kept on June 10. MARGARET (St.) V.M. (July 20)  
-(3rd cent.) Of her Alban Butler writes : " According to the ancient Martyrologies, she suffered at Antioch in Pisidia (Asia Minor), during the last general persecution. She is said to have been instructed in the Faith by a Christian nurse, to have been prosecuted by her own father, a priest of idols; and after many torments to have gloriously finished her martyrdom by the sword." There can be no doubt about the antiquity and universality of the devotion to St. Margaret existing throughout Europe, to which the number of churches  
+(3rd cent.) Of her Alban Butler writes: "According to the ancient Martyrologies, she suffered at Antioch in Pisidia (Asia Minor), during the last general persecution. She is said to have been instructed in the Faith by a Christian nurse, to have been prosecuted by her own father, a priest of idols; and after many torments to have gloriously finished her martyrdom by the sword." There can be no doubt about the antiquity and universality of the devotion to St. Margaret existing throughout Europe, to which the number of churches  
 180  
 
 dedicated to her bear witness. Many legends have gathered about her memory, to one of which is due the practice of painters and sculptors to figure her as trampling on a dragon. MARGARET (St.) Widow. (Aug. 27)  
@@ -11845,7 +11859,7 @@ dedicated to her bear witness. Many legends have gathered about her memory, to o
 (13th cent.) A Roman maiden of the princely house of Colonna, assiduous in the nursing of the sick poor, and venerated even before her death on account of her gift of contemplative prayer and of the innocence of her life. She died A.D. 1284.  
 
 ♦MARIANA of PAREDES (Bl.) V. (May 26)  
-(17th cent.) She is called Mariana of Jesus and " the lily of Qwito (Equador)," where she was born (a.d. 1618) of noble and pious parents. From her childhood she gave signs of being destined by God to reach a high degree of sanctity; but finding that she was not called to a conventual life she practised in her own home the austerities usual in a religious community, and devoted her time to prayer and meditation. She died May 26, a.d. 1645.  
+(17th cent.) She is called Mariana of Jesus and "the lily of Qwito (Equador)," where she was born (a.d. 1618) of noble and pious parents. From her childhood she gave signs of being destined by God to reach a high degree of sanctity; but finding that she was not called to a conventual life she practised in her own home the austerities usual in a religious community, and devoted her time to prayer and meditation. She died May 26, a.d. 1645.  
 
 ♦MARIANUS SCOTUS (MUREDH7E) (Bl.)  
 
@@ -11893,7 +11907,7 @@ MARK and TIMOTHY (SS.) MM. (March 24)
 (2nd cent.) Pope St. Pius I (i.D. 158-167) mentions these two Martyrs, describing them as Priests, in a letter to Justus, Bishop of Vienne in Gaul. The Pope recalls that they had been brought up by the Apostles and exhorts all to follow the example of steadfastness they had given to the Church. Baronius is of opinion that this St. Timothy was a son of the Senator Pudens, and a brother of SS. Pudentiana and Praxedes. a.d. 148 is a probable date for their martyrdom.  
 
 MARK (St.) Evangelist. (April 25)  
-(1st cent.) The inspired writer of one of the Gospels. That he was of Jewish extraction may fairly be inferred from the fact that his writings abound in Hebraisms. Venerable Bede is of opinion that he was of the race of Aaron, that is, of the priestly caste. It is controverted whether he is the " John who is surnamed Mark " (Acts xii. 25) who was for some time the companion of Saul and Barnabas in the first part of their ministry. The Roman Martyrology, following the statements of several of the Fathers, styles him " the disciple and interpreter of St. Peter," and adds that he wrote his Gospel at the request of the Roman Christians under the direction of St. Peter himself. There existed even a tradition that St. Mark's Gospel was originally written in Latin rather than in Greek. It seems almost certain that he is the disciple whom St. Peter calls "my son Mark " (1 Peter v. 13). Of his after-history we know that he was sent as a missionary probably to Aquileia, whence his connection with Venice, but certainly to Etjypt, where he founded the great Church of Alexandria. It was there that St. Mark suffered for Christ, dying in prison about A.D. 68. His body was in the ninth century translated to Venice, of which city St. Mark Is the chief Patron Saint. In art he is represented with a lion at his feet, and often with a scroll on which are inscribed the words : " Peace be to thee, O Mark, My Evangelist."  
+(1st cent.) The inspired writer of one of the Gospels. That he was of Jewish extraction may fairly be inferred from the fact that his writings abound in Hebraisms. Venerable Bede is of opinion that he was of the race of Aaron, that is, of the priestly caste. It is controverted whether he is the "John who is surnamed Mark" (Acts xii. 25) who was for some time the companion of Saul and Barnabas in the first part of their ministry. The Roman Martyrology, following the statements of several of the Fathers, styles him "the disciple and interpreter of St. Peter," and adds that he wrote his Gospel at the request of the Roman Christians under the direction of St. Peter himself. There existed even a tradition that St. Mark's Gospel was originally written in Latin rather than in Greek. It seems almost certain that he is the disciple whom St. Peter calls "my son Mark" (1 Peter v. 13). Of his after-history we know that he was sent as a missionary probably to Aquileia, whence his connection with Venice, but certainly to Etjypt, where he founded the great Church of Alexandria. It was there that St. Mark suffered for Christ, dying in prison about A.D. 68. His body was in the ninth century translated to Venice, of which city St. Mark Is the chief Patron Saint. In art he is represented with a lion at his feet, and often with a scroll on which are inscribed the words : "Peace be to thee, O Mark, My Evangelist."  
 MARK of GALILEE (St.) Bp., M. (April 28)  
 (1st cent.) A native of Galilee who coming over to Italy was converted and baptised by St. Peter. The Apostle sent him as missionary and Bishop into the Province of the Marsi (Abruzzi). There he by his zeal spread Christianity, driving thousands to Faith in Christ, and there in the end he suffered martyrdom (A.D. 92).  
 
@@ -11992,7 +12006,7 @@ One of the Seven Sons of St. FELIGTTAS, zchich see.
 
 MARTIAL, EPICTETUS, MAPRILIS and FELIX  
 (SS.) MM. (Aug. 22)  
-(3rd cent.) They are known as the " Pilgrim Martyrs," and were done to death as Christians at Porto near Rome, either when on their way to Rome to visit the shrines of the Apostles or on their return journey. There were others in their company, and all shared their fate and their triumph. The precise date of their Passion is no longer ascertainable. MARTIAL, LAURENCE and OTHERS (Sept, 28)  (SS.) MM.  
+(3rd cent.) They are known as the "Pilgrim Martyrs," and were done to death as Christians at Porto near Rome, either when on their way to Rome to visit the shrines of the Apostles or on their return journey. There were others in their company, and all shared their fate and their triumph. The precise date of their Passion is no longer ascertainable. MARTIAL, LAURENCE and OTHERS (Sept, 28)  (SS.) MM.  
 (Date unknown.) African Martyrs, twentytwo in number. The names of several among them are given in various Martyrologies; but other particulars are lost. MARTIAL (St.) M. (Oct. 13)  
 See SS. FAUSTUS, JANUARIUS, &c. MARTIALIS (St.) M. (April 16)  
 See SARAGOSSA (MARTYRS of). MARTIN of TONGRES (St.) Bp. (June 21)  
@@ -12055,7 +12069,7 @@ MARY of EGYPT (St.) (April 2)
 (5th cent.) It was the custom in the East to read over publicly during the Divine Office the Life of this holy penitent. The fact of her career of infamy at Alexandria, followed by her conversion at the threshold of the Holy Sepulchre at Jerusalem, and her subsequent retreat into the desert for a lifelong penance, were familiar to every Greek Christian. In her solitude she was at length discovered by the priest Zozimus, who prepared her for death. She is supposed to have passed away about a.d. 421, and her relics were shared among many principal churches both in the East and in the West. Some authors date St. Mary of Egypt a century later; but though the Greek legend cannot be fully trusted, the arguments in favour of the date it gives seem to preponderate.  
 
 MARY CLEOPHAS (St.) (April 9)  
-(First cent.) One of the " Three Marys " who followed Our Lord from Galilee and who stood at the Foot of the Cross on Calvary. She was the wife of Cleophas or Alpheus (John xix. 25), and the mother of the Apostle St. James the Less. Some think that she was a sister of the Blessed Virgin Mary, to whom she was certainly very nearly related. There are certain legends purporting to give an account of her after-life ; but they are not sufficiently well-grounded to be of use.  
+(First cent.) One of the "Three Marys" who followed Our Lord from Galilee and who stood at the Foot of the Cross on Calvary. She was the wife of Cleophas or Alpheus (John xix. 25), and the mother of the Apostle St. James the Less. Some think that she was a sister of the Blessed Virgin Mary, to whom she was certainly very nearly related. There are certain legends purporting to give an account of her after-life; but they are not sufficiently well-grounded to be of use.  
 
 ♦MARY OF THE INCARNATION (April 18)  
 (BI.) Widow.  
@@ -12074,7 +12088,7 @@ MARY (St.) Widow. (June 29)
 (13th cent.) A holy woman of Nivelles in Brabant who, during a long widowhood, led a life of supernatural prayer at Oignies, in the neighbourhood of her birthplace, and was the means of converting many souls to God. She died a.d. 1213, and was at once popularly venerated as a Saint.  
 
 MARY MAGDALEN (St.) Penitent. (July 22)  
-(1st cent.) Several passages in the Gospels tell us all that we know for certain of this wonderful Saint, at one time a sinner " possessed by seven devils." According to the Catholic view expressed by the Church in her Liturgy, St. Mary Magdalen is one and the same with Mary the Sinner, Mary of Bethany, the sister of Lazarus and Martha, the Magdalen at the Foot of the Cross and at the Tomb, and the first witness to the Resurrection. The Greek tradition is that St. Magdalen afterwards retired to Ephesus with the Blessed Virgin and St. John. But Western belief is to the effect that, in company with Martha and Lazarus, she crossed the Sea to Marseilles and aided them in the work of announcing Christ to the people of Provence. The gloomy cavern known as the Sainte-Baume, a great resort of pilgrims, is held to have been inhabited by her during the closing years of her life, and to have been the scene of her death. It is situated on a hill near the little town of St. Maxime, and is now of comparatively easy access.  
+(1st cent.) Several passages in the Gospels tell us all that we know for certain of this wonderful Saint, at one time a sinner "possessed by seven devils." According to the Catholic view expressed by the Church in her Liturgy, St. Mary Magdalen is one and the same with Mary the Sinner, Mary of Bethany, the sister of Lazarus and Martha, the Magdalen at the Foot of the Cross and at the Tomb, and the first witness to the Resurrection. The Greek tradition is that St. Magdalen afterwards retired to Ephesus with the Blessed Virgin and St. John. But Western belief is to the effect that, in company with Martha and Lazarus, she crossed the Sea to Marseilles and aided them in the work of announcing Christ to the people of Provence. The gloomy cavern known as the Sainte-Baume, a great resort of pilgrims, is held to have been inhabited by her during the closing years of her life, and to have been the scene of her death. It is situated on a hill near the little town of St. Maxime, and is now of comparatively easy access.  
 
 MARY DE SOCOS (St.) V. (Sept. 19)  
 (13th cent.) Said to have been born in answer to the prayers of St. Peter Nolasco, whom her childless parents had approached in their disappointment. These same parents were great benefactors of the then new Order of Mercy or of Ransom of Captives, so that when a Third branch of the same Order was founded for women by two pious widows, their already saintly daughter Mary joined the community, and in time became its Superior. So great was the charity and helpfulness to all of the Saint, that her family name of Cervellon was lost in her popular appellation of Maria de Socos (Mary of Help). She died a.d. 1290, and was buried in the church of her Order in Barcelona, where her tomb was the scene of many  
@@ -12086,7 +12100,7 @@ MARY
 Charity, Ursulines and Bridgettines) guillotined at Cambrai during the Great Revolution. Their persistent refusal to cast off their Religious habit earned for them many months of imprisonment and finally the death-sentence. They, mounting one by one the scaffold, sang the Thanksgiving Hymn, Te Deum. They were beatified by Pope Benedict XV (A.D. 1920).  
 
 MARY SALOME (St.) (Oct. 22)  
-(1st cent.) One of the " Three Marys." She was the wife of Zebedee and the mother of the two Apostles, St. James the Greater and St. John the Evangelist. She was one of the holy women who followed and ministered to Our Lord at His Crucifixion and Burial, and who were witnesses to His Resurrection. Tradition brings her afterwards to the South of Gaul, and points to her tomb in an island at the mouth of the Rhone. Her relics, concealed during the dangers of the great Revolution, have been replaced in her church there.  
+(1st cent.) One of the "Three Marys." She was the wife of Zebedee and the mother of the two Apostles, St. James the Greater and St. John the Evangelist. She was one of the holy women who followed and ministered to Our Lord at His Crucifixion and Burial, and who were witnesses to His Resurrection. Tradition brings her afterwards to the South of Gaul, and points to her tomb in an island at the mouth of the Rhone. Her relics, concealed during the dangers of the great Revolution, have been replaced in her church there.  
 
 MARY (St.) V.M. (Oct. 24)  
 See SS. FLORA and MARY.  
@@ -12098,10 +12112,10 @@ MARY (St.) M. (Dec. 2)
 See SS. EUSEBIUS, MARCELLUS, &c.  
 
 MASCULAS ARCHIMIMUS (St.) (March 29)  
-See SS. ARMOGASTES, &c. (In regard to this Saint, it is very probable that there is an error in the common reading of the entry in the Roman Martyrology. This runs : In Africa, the Holy Confessors, Armogastes, a Count, Masculas, Archimimus (which may mean Chief or President of the Theatrical Company) and Saturus, Procurator of the Royal Household, &c, &c. The reading now suggested is : Armogastes, a Count, the Superintendent of the Theatre at Mascula, and Saturus. or again : The Superintendent of the Theatre, a native of Mascula. Nor, even in such case, is it clear whether it is Armogastes who is noted as Chief of the Company of Actors or whether another person, unnamed, is described as such. It is contrary to the custom of these Registers to omit mention of the name of a Saint where it was ascertainable. But on the other hand, one scarcely conceives a Roman " Comes " having to be described as a Theatre Manager or as Chief of the Actors.)  
+See SS. ARMOGASTES, &c. (In regard to this Saint, it is very probable that there is an error in the common reading of the entry in the Roman Martyrology. This runs : In Africa, the Holy Confessors, Armogastes, a Count, Masculas, Archimimus (which may mean Chief or President of the Theatrical Company) and Saturus, Procurator of the Royal Household, &c, &c. The reading now suggested is : Armogastes, a Count, the Superintendent of the Theatre at Mascula, and Saturus. or again : The Superintendent of the Theatre, a native of Mascula. Nor, even in such case, is it clear whether it is Armogastes who is noted as Chief of the Company of Actors or whether another person, unnamed, is described as such. It is contrary to the custom of these Registers to omit mention of the name of a Saint where it was ascertainable. But on the other hand, one scarcely conceives a Roman "Comes" having to be described as a Theatre Manager or as Chief of the Actors.)  
 
 MASSA CANDIDA (SS.) MM. (Aug. 24)  
-(3rd cent.) The name " Massa Candida " ( White Mass) denotes a group of three hundred Christians who suffered martyrdom at Utica in North Africa in the persecution decreed by the Emperors Gallienus and Valerian (a.d. 254a.d. 268). Ordered to choose between sacrificing to idols and being cast into a lime-kiln, they elected at once to die for Christ. Their remains (sought as relics) were of course undistinguishable from the lime that had burned them up.  
+(3rd cent.) The name "Massa Candida" ( White Mass) denotes a group of three hundred Christians who suffered martyrdom at Utica in North Africa in the persecution decreed by the Emperors Gallienus and Valerian (a.d. 254a.d. 268). Ordered to choose between sacrificing to idols and being cast into a lime-kiln, they elected at once to die for Christ. Their remains (sought as relics) were of course undistinguishable from the lime that had burned them up.  
 
 MATERNIAN (St.) Bp. (Jan. 2)  
 Otherwise St. MARTINIAN, which see.  
@@ -12176,11 +12190,11 @@ MAURA (St.) V.M. (Nov. 30)
 (Date unknown.) Commemorated at Constantinople, where she met her death. One of the Ionian Islands is named after her. Her popularity as a Saint in the East seems to have been very great indeed ; so much so that, powerless to eradicate the veneration in which she was held, Julian the Apostate proclaimed her cult to be no other than of the heathen goddess Aphrodite (Venus), disgui?ed as a Christian Saint. The date and circumstances of her martyrdom are unknown.  
 
 MAURICE (MAURITIUS, MORITZ) and OTHERS (SS.) MM. (Sept. 22)  
-(3rd cent.) The town of St. Maurice-enValais (the ancient Agaunum), in the Diocese of Sion in Switzerland, takes its modern name from this Saint. He was an officer in the famous Theban Legion, which was composed almost entirely of Christian soldiers, and had been sent by the Emperor Diocletian as a division of an army intended for the coercion of the malcontents who had risen in insurrection in Gaul. In crossing the Alps, the order went out that the whole army should join in a sacrifice to be made to the gods of Rome for the success of the Imperial arms. The Christian soldiers of the Legion refused to attend, and were therefore sentenced to death, and being surrounded by other troops, massacred. The savage Maximinian Herculeus was in command, and ruthlessly had them exterminated to the last man. These Martyrs are often described as having been between six and seven thousand in number. This may be exaggerated. The Roman Martyrology mentions by name, Maurice, Exuperius, Candidus, Victor, Innocent and Vital is; and adds, " with their fellowsoldiers of the same Legion." The date is a.d. 287. St. Eucherius of Lyons has left a graphic account of the tragedy. Objections raised in the sixteenth century against the tradition of the Theban Legion have been ably and adequately confuted by many authors, both Catholic and non-Catholic.  
+(3rd cent.) The town of St. Maurice-enValais (the ancient Agaunum), in the Diocese of Sion in Switzerland, takes its modern name from this Saint. He was an officer in the famous Theban Legion, which was composed almost entirely of Christian soldiers, and had been sent by the Emperor Diocletian as a division of an army intended for the coercion of the malcontents who had risen in insurrection in Gaul. In crossing the Alps, the order went out that the whole army should join in a sacrifice to be made to the gods of Rome for the success of the Imperial arms. The Christian soldiers of the Legion refused to attend, and were therefore sentenced to death, and being surrounded by other troops, massacred. The savage Maximinian Herculeus was in command, and ruthlessly had them exterminated to the last man. These Martyrs are often described as having been between six and seven thousand in number. This may be exaggerated. The Roman Martyrology mentions by name, Maurice, Exuperius, Candidus, Victor, Innocent and Vital is; and adds, "with their fellowsoldiers of the same Legion." The date is a.d. 287. St. Eucherius of Lyons has left a graphic account of the tragedy. Objections raised in the sixteenth century against the tradition of the Theban Legion have been ably and adequately confuted by many authors, both Catholic and non-Catholic.  
 
 MAURILIUS (St.) Bp. (Sept. 13)  
 (5th cent.) A native of Milan, where he studied under St. Ambrose and the future St. Martin of Tours. He followed the latter into Gaul, and in due course was raised to the Bishopric of Angers (a.d. 407). The story is related of him that, fearing the responsibilities of a Pastor of souls, he fled to England, and there found employment as a gardener; but that, recognised at last, his clergy insisted on his return to his Diocese. He died a.d. 453. All the ancient Martyrologies make mention of him and of the miracles he wrought. The people of Anjou were devoted to him, both alive and dead. MAURINUS (St.) Abbot, M. (June 10)  
-(Date unknown.) Of this Saint we know no more than that in the year 966, when the Abbey Church of St. Pantaleo at Cologne was being rebuilt there was discovered a tomb with the inscription, " Here lie the bones of St. Maurinus, Abbot and Martyr, who was martyred in the porch of this church on June 10." The year is not indicated. The body in the tomb bore traces of torture and signs of violent death. Many miracles (for an account of which Surius may be consulted) were wrought on those who had recourse to the prayers of the personage whose bones they were, and were accepted by the Ecclesiastical authorities as sufficient proof of the substantial accuracy of the inscription. Thus, St. Maurinus obtained a popular cultus at Cologne and a place in the later Martyrologies. In A.d. 1820 his relics were translated to another of the Cologne cliurcliGs MAURITIUS (St.) M. (July 10)  
+(Date unknown.) Of this Saint we know no more than that in the year 966, when the Abbey Church of St. Pantaleo at Cologne was being rebuilt there was discovered a tomb with the inscription, "Here lie the bones of St. Maurinus, Abbot and Martyr, who was martyred in the porch of this church on June 10." The year is not indicated. The body in the tomb bore traces of torture and signs of violent death. Many miracles (for an account of which Surius may be consulted) were wrought on those who had recourse to the prayers of the personage whose bones they were, and were accepted by the Ecclesiastical authorities as sufficient proof of the substantial accuracy of the inscription. Thus, St. Maurinus obtained a popular cultus at Cologne and a place in the later Martyrologies. In A.d. 1820 his relics were translated to another of the Cologne cliurcliGs MAURITIUS (St.) M. (July 10)  
 See SS. LEONTIUS, MAURITIUS, Ac.  
 
 ♦MAURONT (St.) Abbot. (May 5)  
@@ -12279,7 +12293,7 @@ MAXIMIAN (St.) Bp. (Feb. 21)
 (6th cent.) A Bishop of Ravenna, consecrated by Pope Vigilius (A.D. 546). He built many churches in that city, including the magnificent Basilica of St. Vitalis, which he consecrated in the presence of the Emperor Justinian and his Empress Theodora. He died about A.D. 556.  
 
 MAXIMIAN (St.) Bp. (June 9)  
-(6th cent.) A Sicilian by birth and a member of the monastic community St. Gregory the Great established in his family mansion on the Coelian Hill. He served both St. Gregory and his predecessor Pelagius as their representative at the Court of Constantinople, and in Rome for a time acted as minister to St. Gregory. The latter appointed him Bishop of Syracuse and his Legate in Sicily, where the Saint died (A.D. 594) in the third year of his Episcopate. To the zeal, wisdom and virtues of St. Maximian St. Gregory bears eloquent testimony in his Letters, speaking of him as " a man of holy memory, a most faithful servant of God, a worthy Father of his Church, and after death a member of the Heavenly Choir."  
+(6th cent.) A Sicilian by birth and a member of the monastic community St. Gregory the Great established in his family mansion on the Coelian Hill. He served both St. Gregory and his predecessor Pelagius as their representative at the Court of Constantinople, and in Rome for a time acted as minister to St. Gregory. The latter appointed him Bishop of Syracuse and his Legate in Sicily, where the Saint died (A.D. 594) in the third year of his Episcopate. To the zeal, wisdom and virtues of St. Maximian St. Gregory bears eloquent testimony in his Letters, speaking of him as "a man of holy memory, a most faithful servant of God, a worthy Father of his Church, and after death a member of the Heavenly Choir."  
 MAXIMIAN (St.) (July 27)  
 See the HOLY SEVEN SLEEPERS.  
 
@@ -12301,13 +12315,13 @@ MAXIMILIAN (St.) Bp., M. (Oct. 12)
 latter are now at Passau, whither it is said they were translated early in the eleventh centurv.  
 
 MAXIMILIAN (St.) Bp., M. (Oct. 29)  
-(Date unknown.) This Saint is registered in the Roman Martyrology together with a St. Valentine, described as a Confessor, and without further comment. By many this St. Maximilian is now considered to be identical with St. Maximilian, Bishop of Lorsch (Oct. 12). Certain old documents add the word " Patavii " as the place with which St. Maximilian was connected. By this may very well be meant " Passau," where is now the shrine of the St. Maximilian of Oct. 12. Of the St. Valentine, coupled with St. Maximilian on Oct. 29, nothing whatever is known.  
+(Date unknown.) This Saint is registered in the Roman Martyrology together with a St. Valentine, described as a Confessor, and without further comment. By many this St. Maximilian is now considered to be identical with St. Maximilian, Bishop of Lorsch (Oct. 12). Certain old documents add the word "Patavii" as the place with which St. Maximilian was connected. By this may very well be meant "Passau," where is now the shrine of the St. Maximilian of Oct. 12. Of the St. Valentine, coupled with St. Maximilian on Oct. 29, nothing whatever is known.  
 
 MAXIMIN (St.) M. (Jan. 25)  
 See SS. JUVENTINUS and MAXIMIN.  
 
 MAXIMIN (St.) Bp. (March 29)  
-(4th cent.) Born near Loudon (Poitou), at the end of the third or beginning of the fourth century, he was a brother of St. Maxentius, Bishop of Poitiers, and one of a family of Saints. He was educated by St. Agritius of Treves, whom he succeeded in that See. St. Jerome speaks of St. Maximin as " a generous defender of the Faith and one of the most courageous Bishops of his time." He gloried in receiving the exiled St. Athanasius as his guest, and surrounded him with all the honours and state due to his Patriarchal dignity. and he extended the same hospitality to St. Paul, the similarly exiled Patriarch of Constantinople. As a champion of the Catholic Faith in the Trinity, St. Maximin was prominent in the Councils of Milan, Sardica and Cologne. He died while on a visit to his birthplace in the West of France, about a.d. 349; but his body was later taken back to Treves.  
+(4th cent.) Born near Loudon (Poitou), at the end of the third or beginning of the fourth century, he was a brother of St. Maxentius, Bishop of Poitiers, and one of a family of Saints. He was educated by St. Agritius of Treves, whom he succeeded in that See. St. Jerome speaks of St. Maximin as "a generous defender of the Faith and one of the most courageous Bishops of his time." He gloried in receiving the exiled St. Athanasius as his guest, and surrounded him with all the honours and state due to his Patriarchal dignity. and he extended the same hospitality to St. Paul, the similarly exiled Patriarch of Constantinople. As a champion of the Catholic Faith in the Trinity, St. Maximin was prominent in the Councils of Milan, Sardica and Cologne. He died while on a visit to his birthplace in the West of France, about a.d. 349; but his body was later taken back to Treves.  
 
 MAXIMIN (St.) M. (June 8)  
 (1st cent.) A tradition dating from the earliest times avers that this St. Maximin, the first Bishop of Aix in Provence, was a Palestinian, one of the disciples of Our Lord, and that he accompanied SS. Martha and Magdalen, with their brother Lazarus to the South of France. The body of St. Maximin was enshrined in the church of the small neighbouring town which bears his name; but was subsequently translated to the Cathedral of Aix. Another tradition adds that St. Maximin was the man born blind to whom Christ gave sight (John ix.).  
@@ -12437,7 +12451,7 @@ founder and Abbot of a monastery at Muskerry.
 ♦MEEN (St.) Abbot. (June 21)  
 Otherwise St. MAINE, which see. MEGINRATUS (St.) M. (Jan. 21)  
 Otherwise St. MEINRAD, which see. MEINRAD (St.) M. (Jan. 21)  
-(9th cent.) A Saint of Eastern France, who became when in his twenty-fifth year a monk at Reichenau, near Lake Constance. After being ordained priest, he was employed for some years in the care of souls and in the instruction of youth. But in middle life he felt called to solitude, and at length found a resting-place in a dense forest in Switzerland, where he built a cell and a chapel, placing therein a statue of the Blessed Virgin presented to him by a Benedictine Abbess. This statue came to be called that of " Our Lady of the Hermits," and the chapel itself Einsiedeln (Hermitage). St. Meinrad, after several years passed there as a Recluse, was murdered by some ruffians, who thought to discover hidden treasures in the poor hermitage (A.D. 861). On the spot arose the celebrated Abbey of Einsiedeln, still flourishing in our own day. St. Meinrad was canonised about A.D. 1000, and is traditionally venerated as a Martyr. *MEINULPH (St.) (Oct. 5)  
+(9th cent.) A Saint of Eastern France, who became when in his twenty-fifth year a monk at Reichenau, near Lake Constance. After being ordained priest, he was employed for some years in the care of souls and in the instruction of youth. But in middle life he felt called to solitude, and at length found a resting-place in a dense forest in Switzerland, where he built a cell and a chapel, placing therein a statue of the Blessed Virgin presented to him by a Benedictine Abbess. This statue came to be called that of "Our Lady of the Hermits," and the chapel itself Einsiedeln (Hermitage). St. Meinrad, after several years passed there as a Recluse, was murdered by some ruffians, who thought to discover hidden treasures in the poor hermitage (A.D. 861). On the spot arose the celebrated Abbey of Einsiedeln, still flourishing in our own day. St. Meinrad was canonised about A.D. 1000, and is traditionally venerated as a Martyr. *MEINULPH (St.) (Oct. 5)  
 (9th cent.) A Saint of the circle of Charlemagne, who is said to have adopted Meinulph as his son. He was distinguished for his piety, meekness and humility. He died in Westphalia (about A.D. 859) in a monastery which he had founded. *MEL (MELCHNO) (St.) Bp. (Feb. 6)  
 (5th cent.) One of the earliest of the Irish Saints. He was a nephew of St. Patrick, and by him appointed first Bishop of Ardagh. There St. Mel built a great monastery and governed it as Abbot. It was he who gave the veil of religion to St. Brigid. He lived till towards the close of the fifth century. Ardagh Diocese venerates him as its Patron Saint. *MELANGELL (MONACELLA) (St.) V. (Jan. 31)  
 (6th cent.) A Saint commemorated in certain Welsh Kalendars. She lived an austere life as a recluse, in Montgomeryshire, at the end of the sixth century. Incidents in her legend are represented on the screen of the church of Pennant-Melangell. MELANIA THE YOUNGER and PINIANUS  
@@ -12478,7 +12492,7 @@ MELETIUS (St.) Bp. (Sept. 21)
 (Date unknown.) The Menology of Basil associates the name of this St. Meletius with that of St. Isaacius, who is styled a Martyr. They are both described as Bishops in Cyprus; but beyond ascribing to them the virtues and eminent qualities common to all saintly Bishops, the documents extant record nothing material concerning either of them, nor can any even approximate date be assigned to them.  
 
 MELETIUS (St.) Bp. (Dec. 4)  
-(3rd cent.) The historian Eusebius (a personal friend of this St. Meletius) relates that he gained his name of Meletius, derived from ' ' mel Atticum, " by reason of his great eloquence. He describes him as perfect in all things and resplendent with every virtue. He was a Bishop in Pontus, near the coast of the Black Sea, and took refuge with Eusebius in one of the persecutions so frequent in his time. St. Basil also speaks of the esteem in which St.  
+(3rd cent.) The historian Eusebius (a personal friend of this St. Meletius) relates that he gained his name of Meletius, derived from "mel Atticum," by reason of his great eloquence. He describes him as perfect in all things and resplendent with every virtue. He was a Bishop in Pontus, near the coast of the Black Sea, and took refuge with Eusebius in one of the persecutions so frequent in his time. St. Basil also speaks of the esteem in which St.  
 MENIGNUS  
 
 Meletius was held by all. He seems to have died in his own city before the close of the third century. MELEUSIPPUS (St.) M. (Jan. 17)  
@@ -12495,7 +12509,7 @@ Otherwise St. MELLONUS, which see. MELLION (MELLON, MULLION, MELANIUS) (St.) Bp.
 Otherwise St. MELLONIUS, which see. MELLITUS (St.) Bp. (April 24)  
 (7th cent.) A Roman monk, one of the band of missionaries sent by St. Gregory to aid St. Augustine in the work he had begun some years before in Kent, and to further spread the Gospel among the Anglo-Saxons. St. Augustine consecrated him Bishop of the East Saxons, with his See in London. Trouble with the Pagan Princes of Essex drove him into exile into France; but he soon forced his way back to liis work, and on the death of St. Laurence, succeeded him in the Archbishopric of Canterbury. He governed the nascent English Church with wonderful success, despite grave bodily infirmities. He passed away a.d. 624. MELLO (MELLON) (St.) Bp. Oct. 22nd  
 Otherwise St. MELLONIUS, which see. MELLONIUS (St.) Bp. (Oct. 22)  
-(3rd cent.) This Saint, whose name the Roman Martyrology renders as " Melanius," is supposed to have been a native of Great Britain. The churches of St. Mellon and St. Mullion in Wales and Cornwall may possibly commemorate him, though other Patron Saints with similar names have been by some assigned to them. St. Mellonius is stated to have gone to Rome and to have been sent thence as a missionary by Pope St. Stephen, about the middle of the third century. He stayed in Northern Gaul, and is venerated as the Founder and first Bishop of the See of Rouen. After a long Episcopate he retired to a hermit's cell at a place called Hericourt, where he died a.d. 314. *MELORIUS (St.) M. (Oct. 1)  
+(3rd cent.) This Saint, whose name the Roman Martyrology renders as "Melanius," is supposed to have been a native of Great Britain. The churches of St. Mellon and St. Mullion in Wales and Cornwall may possibly commemorate him, though other Patron Saints with similar names have been by some assigned to them. St. Mellonius is stated to have gone to Rome and to have been sent thence as a missionary by Pope St. Stephen, about the middle of the third century. He stayed in Northern Gaul, and is venerated as the Founder and first Bishop of the See of Rouen. After a long Episcopate he retired to a hermit's cell at a place called Hericourt, where he died a.d. 314. *MELORIUS (St.) M. (Oct. 1)  
 (5th cent.) A Saint venerated both in Catholic England, chiefly at Amcsbury, and in Brittany. He is said to have been the son of a chieftain in Cornwall and a convert to Christianity, done to death on that account early in the fifth century. But no source of authentic information is now available. MEMMIUS (St.) P.p. (Aug. 5  
 (2nd cent.) The Saint popularly known in France as St. Menge. The tradition is that he was one of the zealous men sent by St. Peter as Apostles into Gaul. The raising of the dead to life and many other miracles are said to have borne witness to the truth of his preaching. He made numberless conversions  
 
@@ -12505,7 +12519,7 @@ MEMNON (St.) M. (Aug. 20)
 See SS. SEVERUS and MEMNON.  
 
 MEMORIUS and OTHERS (SS.) MM. (Sept. 7)  
-(5th cent.) The Roman Martyrology registers this Saint as " Nemorius " ; popularly he is known as St. Mesmin. He was a deacon of the Church of Troyes in France, sent by the Bishop, St. Lupus, with several companions, to the camp of Attila the Hun, who was threatening the city, to beg of him to spare it. The Barbarian leader, however, seized them and put them all to death. There are various accounts extant of the circumstances of this martyrdom, and not all of them are trustworthy. The fact of the cultus of the victims from the earliest ages is at least undoubted. The Relics of St. Memorius escaped the fury of the Revolutionists of 1792, and are still in popular veneration.  
+(5th cent.) The Roman Martyrology registers this Saint as "Nemorius"; popularly he is known as St. Mesmin. He was a deacon of the Church of Troyes in France, sent by the Bishop, St. Lupus, with several companions, to the camp of Attila the Hun, who was threatening the city, to beg of him to spare it. The Barbarian leader, however, seized them and put them all to death. There are various accounts extant of the circumstances of this martyrdom, and not all of them are trustworthy. The fact of the cultus of the victims from the earliest ages is at least undoubted. The Relics of St. Memorius escaped the fury of the Revolutionists of 1792, and are still in popular veneration.  
 
 MENALIPPUS (St.) M. (Sept. 2)  
 See SS. DIOMEDES, JULIAN, &c.  
@@ -12525,7 +12539,7 @@ See SS. URBAN, THEODORE, &c.
 (5th cent.) Of the family of Brychan of Brecknock. She is the Patron Saint of Menver (Cornwall). *MENEHOULD (St.) V. (Oct. 14)  
 (5th cent.) The Patron Saint of the French town in the Argonne called after her. With her five sisters, likewise honoured as Saints, she illustrated by her holy life the Diocese of Chiaons-sur-Marne. MENELEUS (MENEVE) (St.) Abbot. (July 22)  
 (8th cent.) In French the name is rendered Menele or Mauvier. He was a native of the West of France, but entered a monastery in Auvergne. Later, he founded a great Abbey at Menat near Clermont. In his declining years he appointed as his successor St. Savinien, a companion of his youth, and died a.d. 720. MENEUS and CAPITO (SS.) MM. (July 24)  
-(Date unknown.) Beyond the fact that these Martyrs are commemorated in the Greek Menologies, and thence notices of them copied into the Western Martyrologies, nothing is now known of them. Meneus is often written " Hymenseus." *MENEVIUS (St.) Abbot. (July 22)  
+(Date unknown.) Beyond the fact that these Martyrs are commemorated in the Greek Menologies, and thence notices of them copied into the Western Martyrologies, nothing is now known of them. Meneus is often written "Hymenseus." *MENEVIUS (St.) Abbot. (July 22)  
 (8th cent.) A French Abbot in Auvergne, in which Province and in that of Anjou, in which he was born, he is in great veneration. *MENGOLD (St.) M. (Feb. 8)  
 (9th cent.) A Count of Huy on the Meuse,  
 where he is venerated as Patron Saint. He  
@@ -12539,7 +12553,7 @@ N 193
 MENNA  
 neighbourhood of Constantinople attracted to it in Christian times numerous pilgrims. *MENNA (MANNA) (St.) V. (Oct. 3)  
 (5th cent.) A Christian maiden in the country now called Lorraine, related by blood to St. Eucharius and other Saints. The traditions concerning the details of her life are unfortunately very unreliable. MENNAS (St.) Bp. (Aug. 25)  
-(6th cent.) This holy Patriarch of Constantinople had the privilege of being consecrated by Pope St. Agapetus, who had come to the city to preside over the Council convoked to judge the former Patriarch Anthimus. On the deposition of the latter, Mennas, then Superior of the great Hospice of St. Samson, was elected in his place (a.d. 536). Subject to Papal approbation, St. Mennas subscribed the Edict of the Emperor Justinian condemning the documents known as the " Three Chapters." For this subscription St. Mennas was, however, censured by Pope Vigilius. He of course submitted. He died A.d. 552. MENNAS (St.) M. (Nov. 11)  
+(6th cent.) This holy Patriarch of Constantinople had the privilege of being consecrated by Pope St. Agapetus, who had come to the city to preside over the Council convoked to judge the former Patriarch Anthimus. On the deposition of the latter, Mennas, then Superior of the great Hospice of St. Samson, was elected in his place (a.d. 536). Subject to Papal approbation, St. Mennas subscribed the Edict of the Emperor Justinian condemning the documents known as the "Three Chapters." For this subscription St. Mennas was, however, censured by Pope Vigilius. He of course submitted. He died A.d. 552. MENNAS (St.) M. (Nov. 11)  
 (3rd cent.) An Egyptian officer in the Imperial army, serving in Asia Minor. On quitting military service he retired for a time into the Desert, intending to embrace the life of the Solitaries. Nevertheless, on the breaking out of the great persecution under Diocletian, Mennas felt himself moved to share the lot of his fellow-believers and, returning to the town of Kutahia in Phrygia, publicly declared himself a Christian. He was scourged, put to other torture, and beheaded (a.d. 296). His body was cast into a fire, but thence rescued by a fellow-countryman of the Martyr and taken back to the Egyptian desert, where it was interred and later a church erected over the grave. MENNAS (St.) (Nov. 11)  
 (6th cent.) A hermit, whose cell was situated near Benevento in the South of Italy. He led a life of prayer and penance, and in life as after death was looked upon by all as a Saint. St. Gregory the Great, his contemporary, enlarges & upon his virtues, his familiarity with God's creatures and his wonderful insight into the hearts of those who had dealings with him. A solemn Translation of his Relics was celebrated in A.D. 1094. MENNAS, HERMOGENES and EUGRAPHUS  
 (SS.) MM. (Dec. 10)  
@@ -12595,7 +12609,7 @@ life.
 ♦MERWENNA (St.) V. (May 13)  
 (10th cent.) The first Abbess of Rumsey  
 (Hampshire). Under her rule, it is stated that  
-the monastery was a " veritable school of  
+the monastery was a "veritable school of  
 religious perfection." Probably identical with  
 St. Merewenna, which see.  
 
@@ -12607,41 +12621,54 @@ MESMIN (St.) (Dec. 15)
 Otherwise St. MAXIMINUS, which see.  
 
 MESOPOTAMIA (MARTYRS of) (May 23)  
-(4th cent.) Christians put to death on  
-account of their religion in Mesopotamia, under  
-the Emperor Maximian Galerius, one of the  
-colleagues of Diocletian, about A.D. 307.  
+(4th cent.) Christians put to death on account of their religion in Mesopotamia, under the Emperor Maximian Galerius, one of the colleagues of Diocletian, about A.D. 307.  
 
 MESSIANUS (St.) M. (Jan. 8)  
 Otherwise St. MAXIMIAN, which see. METELLUS (St.) M. (Jan. 24)  
 See SS. MARDONIUS, MUSONIUS, <fec. METHODIUS (St.) Bp. (March 9)  
 See SS. CYRIL and METHODIUS. METHODIUS (St.) Bp. (June 14)  
-(9th cent.) By birth a native of Sicily, he founded a monastery on the Island of Chio in the Grecian Archipelago. Summoned thence to Constantinople by the Patriarch Nicephorus, he endured much persecution from the Iconoclasts. On the death of Nicephorus, the Empress Theodora induced Methodius to accept the vacant See, which he occupied for four years. It is said that so great was the popular opinion of his sanctity that his Festival as a Saint began to be celebrated during the Episcopate of his immediate successor, St. Ignatius. He has left several works, among which are a Book of Penitential Canons and a Panegyric of St. Dionysius the Areopagite. He died A.D. 846. METHODIUS (St.) Bp., M. (Sept. 18)  
-(4th cent.) According to St. Jerome, St. Methodius was a Bishop of Olympus in Lycia (Asia Minor), and thence translated to the more important See of Tyre in Phoenicia. He is generally supposed to have suffered martyrdom at Chaleis in Greece about A.D. 311. He was a profound Theologian and a polished writer after the style of Plato. His " Symposium " is avowedly an imitation of the " Banquet " of the latter. In the controversies of his time he showed himself a vigorous opponent of the theories of Origen. METRANUS (METRAS) (St.) M. (Jan. 31)  
-(3rd cent.) One of the victims of the persecution under Decius (a.d. 250). He was an Egyptian of Alexandria, and St. Dionysius, his Bishop and contemporary, describes in vivid terms the ghastly tortures which preceded his execution. METROBIUS (St.) M. (Dec. 24)  
-See SS. LUCIAN, METROBIUS, <fcc. METRODORA (St.) V.M. (Sept. 10)  
-See SS. MENODORA, METRODORA, Ac. METROPHANES (St.) Bp. (June 4)  
+(9th cent.) By birth a native of Sicily, he founded a monastery on the Island of Chio in the Grecian Archipelago. Summoned thence to Constantinople by the Patriarch Nicephorus, he endured much persecution from the Iconoclasts. On the death of Nicephorus, the Empress Theodora induced Methodius to accept the vacant See, which he occupied for four years. It is said that so great was the popular opinion of his sanctity that his Festival as a Saint began to be celebrated during the Episcopate of his immediate successor, St. Ignatius. He has left several works, among which are a Book of Penitential Canons and a Panegyric of St. Dionysius the Areopagite. He died A.D. 846.  
+
+METHODIUS (St.) Bp., M. (Sept. 18)  
+(4th cent.) According to St. Jerome, St. Methodius was a Bishop of Olympus in Lycia (Asia Minor), and thence translated to the more important See of Tyre in Phoenicia. He is generally supposed to have suffered martyrdom at Chaleis in Greece about A.D. 311. He was a profound Theologian and a polished writer after the style of Plato. His "Symposium" is avowedly an imitation of the "Banquet" of the latter. In the controversies of his time he showed himself a vigorous opponent of the theories of Origen.  
+
+METRANUS (METRAS) (St.) M. (Jan. 31)  
+(3rd cent.) One of the victims of the persecution under Decius (a.d. 250). He was an Egyptian of Alexandria, and St. Dionysius, his Bishop and contemporary, describes in vivid terms the ghastly tortures which preceded his execution.  
+
+METROBIUS (St.) M. (Dec. 24)  
+See SS. LUCIAN, METROBIUS, <fcc.  
+
+METRODORA (St.) V.M. (Sept. 10)  
+See SS. MENODORA, METRODORA, Ac.  
+
+METROPHANES (St.) Bp. (June 4)  
 (4th cent.) Believed to have become Bishop of Byzantium about A.D. 313. There is a tradition that the admiration cherished by Constantine for his virtues and merits had not a little to do with the choice made by that  
 
-Emperor of Byzantium, henceforth Constantinople, as the seat of his government. St. Metrophanes had suffered imprisonment during the persecution under Diocletian, but his Episcopate at Constantinople was a peaceful one. He was unable on account of his infirmities to take part in the great Council of Nicaea (a.d. 325), and died in that same year. *MEUGANT (MAWGHAN, MORGAN) (Sept. 26) (St.)  
-(6th cent.) A Saint to whom several churches in Wales and Cornwall are dedicated. He appears to have been a disciple of St. Ultyd, to have lived as a hermit in several places in the West of Britain, and to have retired before his holy death to the Isle of Bardsey. He is sometimes found represented as a Bishop with mitre and crozier. MEURIS and TH/EA (SS.) MM. (Dec. 19)  
+Emperor of Byzantium, henceforth Constantinople, as the seat of his government. St. Metrophanes had suffered imprisonment during the persecution under Diocletian, but his Episcopate at Constantinople was a peaceful one. He was unable on account of his infirmities to take part in the great Council of Nicaea (a.d. 325), and died in that same year.  
+
+*MEUGANT (MAWGHAN, MORGAN) (Sept. 26) (St.)  
+(6th cent.) A Saint to whom several churches in Wales and Cornwall are dedicated. He appears to have been a disciple of St. Ultyd, to have lived as a hermit in several places in the West of Britain, and to have retired before his holy death to the Isle of Bardsey. He is sometimes found represented as a Bishop with mitre and crozier.  
+
+MEURIS and TH/EA (SS.) MM. (Dec. 19)  
 (4th cent.) Two Christian maidens who suffered martyrdom at Gaza in Palestine about a.d. 307. It is not clear that these Saints are other than the St. Valentina and her anonymous fellow-sufferer, commemorated on July 25.  
 
 ♦MEVENNA (St.) Abbot. (June 21)  
 Otherwise St. MAINE, which see.    
 
 *MEWAN (St.) Abbot. (June 21)  
-
-The Cornish form of the name of St. MAINE,  
-MEVENNA, MEEN, which see.    
+The Cornish form of the name of St. MAINE, MEVENNA, MEEN, which see.    
 
 *MEWROG (St.) (Sept. 25)  
-(Date uncertain.) A Denbighshire Saint, concerning whom no particulars are extant. MICHjEAS (MICAH) (St.) Prophet. (Jan. 15)  
+(Date uncertain.) A Denbighshire Saint, concerning whom no particulars are extant.  
+
+MICHjEAS (MICAH) (St.) Prophet. (Jan. 15)  
 (8th cent. B.C.) A contemporary of the Prophet Isaias. One of the Twelve Minor Prophets. His inspired Book contains the prophecy that Christ should be born in the town of Bethlehem. His prophecy is a short one. He inveighs both against Samaria and Jerusalem, but in magnificent imagery foretells the glory of the Church of the New Testament. His tomb, according to the historian Sozomen, was in the fourth century discovered in the neighbourhood of Jerusalem.  
 
 ♦MICHAEL CARVALHO and OTHERS (March 1)  
 (Bl.) MM.  
-(17th cent.) Portuguese Jesuits, missionaries in Japan, burned to death there at the stake (A.D. 1624). MICHAEL (St.) Bp. (May 23)  
+(17th cent.) Portuguese Jesuits, missionaries in Japan, burned to death there at the stake (A.D. 1624).  
+
+MICHAEL (St.) Bp. (May 23)  
 (9th cent.) A disciple of St. Tarasius, Patriarch of Constantinople, by whom he was consecrated Bishop of Synnada in Phrygia. St. Tarasius also chose Michael as the bearer of his Synodal Letter to Pope St. Leo III in Rome. St. Michael was distinguished by his fearless opposition to the Iconoclast Emperor Leo the Armenian. He was banished into Galatia, where he went from place to place spreading everywhere the light of the Faith, in spite of continuous persecution. He died about a.d. 820. MICHAEL THE ARCHANGEL (St.)  
 (Sept. 29)  
 
