@@ -9,7 +9,7 @@ Digitized by the Internet Archive in 2010
 TO WHICK IS ADDED AN ACCOUNT OF THE INQUISITION, THE BARTHOLOMEW MASSACRE IN FRANCS, THE GENERAL PERSECUTION UNDER LOUIS XIV., THE MASSACRE IN THE IRISH REBELLION IN THE YEAR 1641.  
 FOURTH EDITION.  
 
-"And when he had opened the 5th seal, I saw under the altar the bou1« of them that were slain for the word of God, and for the testimony which they held."— Rev. vi. 9.  
+"And when he had opened the 5th seal, I saw under the altar the both of them that were slain for the word of God, and for the testimony which they held."— Rev. vi. 9.  
 
 NEW YORK.  
 CHARLES K. MOORE, 142, NASSAU STREET.  
@@ -1525,7 +1525,7 @@ of the city, when an archer shot him in the thigh with an arrow ; and a woman im
 The bloodthirsty legate, whose name was Betrand, being very old, grew weary of following the army ; but his passion for murder still remained, as appears by his epistle to the pope, in which he begs to be recalled on account of age and infirmities ; but entreats the pontiff to appoint a successor, who might carry on the war, as he had done, with spirit and perseverance. In consequence, the pope recalled Betrand, and appointed Conrade, bishop of Portua, to be legate in his room.- The latter determined to follow the steps of his predecessor, &lt;&gt; and to persecute the Albigenses with the greatest severity. Guido, earl of Montfort, the son and heir of earl Simon, undertook the command of the troops, and immediately laid siege to Toulouse, before the walls of which he was killed. His brother Aimer ic succeeded to the command, but the bravery of the garrison soon obliged him to raise the siege. On this the legate prevailed upon the king of France to undertake the siege of Toulouse in person, and reduce to the obedience of the church those obstinate heretics, as he  
 
 PERSECUTIONS OF THE ALBIGENSES. 155  
-called the brave Albigenses. The earl of Toulouse, hearing of the great preparations made by the king of France, sent the women, children, cattle, &amp;c. into secret and secure places in the mountains, ploughed up the land, that the king's forces should not obtain any forage, and did all that a skilful general could perform to distress the enemy. By these wise regulations the French army, soon after entering the earldom of Toulouse, suffered all the extremities of f? mine, which obliged the troops to feed on the carcasses of horses, dogs, cats, &amp;c, which unwholesome food produced the plague. The king died of grief; but his son, who succeeded him, determined to carry on the war ; he was, however, defeated in three engagements, by the earl of Toulouse. The king, the queen-mother, and three archbishops again raised a formidable army, and had the art to persuade the earl of Toulouse to come to a conference, when he was treacherously seized upon, made a prisoner, forced to appear barefooted and bareheaded before his enemies, and compelled to subscribe the following ignominious conditions : 1. That he should abjure the faith that he had hitherto defended. 2. That he should be subject to the church of Rome. 3. That he should give his daughter Joan in marriage to one of the brothers of the king of France. 4. That he should maintain in Toulouse six popish professors of the liberal arts, and two grammarians. 5. That he should take upon him the cross, and serve five years against the Saracens in the Holy Land. 6. That he should level the walls of Toulouse with the ground. 7. That he should destroy the walls and fortifications of thirty of his other cities and castles, as the legate should direct. 8. That he should remain prisoner at Paris till his daughter was delivered to the king's commissioners. After these cruel conditions a severe persecution took place against the Albigenses, many of whom suffered for the faith ; and express orders were issued that the laity should not be per« mitted to read the sacred 'writings !  
+called the brave Albigenses. The earl of Toulouse, hearing of the great preparations made by the king of France, sent the women, children, cattle, &amp;c. into secret and secure places in the mountains, ploughed up the land, that the king's forces should not obtain any forage, and did all that a skilful general could perform to distress the enemy. By these wise regulations the French army, soon after entering the earldom of Toulouse, suffered all the extremities of f? mine, which obliged the troops to feed on the carcasses of horses, dogs, cats, &amp;c, which unwholesome food produced the plague. The king died of grief; but his son, who succeeded him, determined to carry on the war ; he was, however, defeated in three engagements, by the earl of Toulouse. The king, the queen-mother, and three archbishops again raised a formidable army, and had the art to persuade the earl of Toulouse to come to a conference, when he was treacherously seized upon, made a prisoner, forced to appear barefooted and bareheaded before his enemies, and compelled to subscribe the following ignominious conditions : 1. That he should abjure the faith that he had hitherto defended. 2. That he should be subject to the church of Rome. 3. That he should give his daughter Joan in marriage to one of the brothers of the king of France. 4. That he should maintain in Toulouse six popish professors of the liberal arts, and two grammarians. 5. That he should take upon him the cross, and serve five years against the Saracens in the Holy Land. 6. That he should level the walls of Toulouse with the ground. 7. That he should destroy the walls and fortifications of thirty of his other cities and castles, as the legate should direct. 8. That he should remain prisoner at Paris till his daughter was delivered to the king's commissioners. After these cruel conditions a severe persecution took place against the Albigenses, many of whom suffered for the faith ; and express orders were issued that the laity should not be permitted to read the sacred 'writings !  
 
 156 BOOK OF MARTYRS.  
 
@@ -4550,97 +4550,4 @@ On the 24th of February, the king went to the House of Peers, and in a speech to
 
 .Thus was this horrid conspiracy happily frustrated, and the authors of it brought to that condign punishment which their infamy merited. The king's life was the security of his subjects, who heartily rejoiced, as they had reason to do, in being thereby preserved from the miseries of popery and arbitrary government.  
 
-
-/i A  
-
-</pre>        </div><!--/.container-->
-              </main>
-    </div><!--/#wrap-->
-        <!-- Timing ...
-     rendered on: www19.us.archive.org
- seconds diff sec               message   stack(file:line:function)
-=========================================================
-  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
-                                             |common/ia:66:require_once
-                                             |setup.php:384:log
-  0.0079   0.0079      redis_read start   var/cache/petabox/petabox/www/sf/download.php:79:main_wrap
-                                             |download.php:98:main
-                                             |download.php:298:getItem
-                                             |common/Item.inc:78:parseMetadata
-                                             |Item.inc:138:get_obj
-                                             |Metadata.inc:612:_get_obj
-                                             |Metadata.inc:641:run_pipeline
-                                             |Metadata.inc:1688:read
-                                             |Metadata/AdapterPipeline.inc:288:_read
-                                             |AdapterPipeline.inc:324:pipeline
-                                             |AdapterPipeline.inc:462:fetch
-                                             |AdapterPipeline.inc:891:execute_pipeline
-                                             |RecordServer.inc:184:log
-  0.0127   0.0048     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:79:main_wrap
-                                             |download.php:98:main
-                                             |download.php:298:getItem
-                                             |common/Item.inc:78:parseMetadata
-                                             |Item.inc:138:get_obj
-                                             |Metadata.inc:612:_get_obj
-                                             |Metadata.inc:641:run_pipeline
-                                             |Metadata.inc:1688:read
-                                             |Metadata/AdapterPipeline.inc:288:_read
-                                             |AdapterPipeline.inc:324:pipeline
-                                             |AdapterPipeline.inc:462:fetch
-                                             |AdapterPipeline.inc:891:execute_pipeline
-                                             |RecordServer.inc:193:log
-  0.0289   0.0162   begin session_start   var/cache/petabox/petabox/www/sf/download.php:79:main_wrap
-                                             |download.php:98:main
-                                             |download.php:481:stream
-                                             |download.php:843:head
-                                             |common/Nav.inc:153:__construct
-                                             |Nav.inc:224:session_start
-                                             |Cookies.inc:48:log
-  0.0290   0.0001    done session_start   var/cache/petabox/petabox/www/sf/download.php:79:main_wrap
-                                             |download.php:98:main
-                                             |download.php:481:stream
-                                             |download.php:843:head
-                                             |common/Nav.inc:153:__construct
-                                             |Nav.inc:224:session_start
-                                             |Cookies.inc:60:log
-  0.1064   0.0774              bug dump   var/cache/petabox/petabox/www/sf/download.php:79:main_wrap
-                                             |download.php:98:main
-                                             |download.php:481:stream
-                                             |download.php:873:footer
-                                             |common/setup.php:148:footer
-                                             |Nav.inc:942:dump
-                                             |Bug.inc:94:log
-    -->
-    <script  nonce="7d007981d033f871771735958cbd26fe" >
-if (typeof archive_analytics !== 'undefined') {
-  archive_analytics.send_pageview_on_load(archive_analytics);
-  archive_analytics.process_url_events(location);
-  var vs = archive_analytics.get_data_packets();
-  for (var i in vs) {
-    if (!vs[i]) {
-      vs[i] = {};
-    }
-    vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=106;
-    vs[i]['server_name']="www19.us.archive.org";
-      }
-
-  if (document.querySelectorAll('.more_search').length) {
-    archive_analytics.send_scroll_fetch_base_event();
-  }
-}
-</script>
-          <img src="//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=985569834" alt="" />
-          <noscript>
-        <img src="//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1551544326" />
-      </noscript>
-          <script  nonce="7d007981d033f871771735958cbd26fe" >
-        document.addEventListener('DOMContentLoaded', function() {
-          if (typeof archive_analytics !== 'undefined')
-            archive_analytics.create_tracking_image('in_page_executes');
-        });
-      </script>
-      </div>
-  </body>
-</html>
     
